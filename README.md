@@ -52,7 +52,7 @@ To become a world-class AI Engineer, build impactful products, and create techno
 [![](https://komarev.com/ghpvc/?username=codeby-Vishwajeet&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://vishwajeet-ai-dev.netlify.app) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://vishwajeet-ai-dev.netlify.app) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://vishwajeet-ai-dev.netlify.app) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://vishwajeet-ai-dev.netlify.app) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CodeWithVishwajeet) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://vishwajeet-ai-dev.netlify.app) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://vishwajeet-ai-dev.netlify.app) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishwajeet-ai-dev.netlify.app) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
