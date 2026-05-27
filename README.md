@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=220&section=header&text=Vishwajeet%20Ramniwas&fontSize=55&fontColor=00f5ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder%20of%20Tomorrow&descFontColor=778da9&descFontSize=16&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=220&section=header&text=Vishwajeet%20Ramniwas&fontSize=55&fontColor=00f5ff&fontAlignY=40&desc=Young%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Builder%20of%20Tomorrow&descFontColor=778da9&descFontSize=16&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+that+actually+matters+%F0%9F%A7%A0;Full-Stack+from+idea+to+deployment+%F0%9F%9A%80;Started+young.+Building+daily.+Dreaming+globally.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+that+actually+matters+%F0%9F%A7%A0;Full-Stack+from+idea+to+deployment+%F0%9F%9A%80;Crafting+glassmorphism+%26+modern+UIs+%E2%9C%A8;Started+young.+Building+daily.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
-<!-- STATUS BADGES -->
 <a href="https://github.com/codeby-Vishwajeet">
   <img src="https://img.shields.io/badge/STATUS-Building%20in%20Public-00f5ff?style=flat-square&labelColor=0d1b2a&color=00f5ff"/>
 </a>
@@ -31,23 +28,23 @@
 ```typescript
 const vishwajeet: Developer = {
   name:     "Vishwajeet Ramniwas",
-  title:    "AI Engineer & Full-Stack Developer",
-  location: "India 🇮🇳",
+  title:    "Young AI Developer & Full-Stack Engineer",
+  location: "Patna, Bihar, India 🇮🇳",
   mission:  "Build impactful tech that changes lives",
 
   currently: {
-    building:  ["AI-powered apps", "SaaS MVPs", "Smart automation"],
-    learning:  ["Advanced LLM engineering", "Cloud architecture"],
-    exploring: ["Startup ecosystems", "Edge AI deployment"],
+    building:  ["AUTOFOUNDER X", "S.A.M.", "Vanalux Startup"],
+    learning:  ["Advanced Prompt Engineering", "Cloud Architecture (Google Cloud)"],
+    exploring: ["Startup Ecosystems", "Physics-based Animations"],
   },
 
   contact: {
     email:     "srivrdeveloper@gmail.com",
     portfolio: "vishwajeet-ai-dev.netlify.app",
-    linkedin:  "linkedin.com/in/vishwajeet-ramniwas-3631a83a3",
+    linkedin:  "[linkedin.com/in/vishwajeet-ramniwas-3631a83a3](https://linkedin.com/in/vishwajeet-ramniwas-3631a83a3)",
   },
 
-  philosophy: "Technology is not about code —\n             it's about possibilities that didn't exist before.",
+  philosophy: "Technology is not about code —\n              it's about possibilities that didn't exist before.",
 };
 ```
 
@@ -59,83 +56,55 @@ const vishwajeet: Developer = {
 
 <div align="center">
 
-### ◈ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux,angular&perline=10&theme=dark"/>
+### ◈ Frontend & Design
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux,figma&perline=10&theme=dark"/>
 
 ### ◈ Backend & AI
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,flask,nestjs,graphql&perline=8&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,flask,tensorflow,pytorch,sklearn,opencv&perline=8&theme=dark"/>
 
 ### ◈ Data & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,sqlite&perline=6&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,netlify&perline=6&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,gcp,docker,vercel,netlify&perline=8&theme=dark"/>
 
 ### ◈ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,bash&perline=7&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash&perline=6&theme=dark"/>
 
 </div>
 
 ---
 
-## `> cat projects.json`
+## `> cat featured_builds.json`
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Intelligence
-```
-◉ Intelligent Chatbots & Assistants
-◉ NLP-powered Applications
-◉ Predictive Analytics Models
-◉ Computer Vision Systems
-◉ AI Recommendation Engines
-◉ Workflow Automation Agents
-```
+### 🤖 AUTOFOUNDER X & S.A.M.
+**AI & School Automation**
+Building advanced automated systems for educational environments and startup founders, utilizing modern AI pipelines and high-end glassmorphism UIs.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web & Full-Stack
-```
-◉ Modern Responsive Platforms
-◉ Progressive Web Apps (PWAs)
-◉ E-Commerce & Marketplace Apps
-◉ SaaS Application Development
-◉ Secure Auth & API Systems
-◉ Real-time Collaborative Tools
-```
+### 🌿 Vanalux
+**Co-Founder | Sustainable Startup**
+Architecting the digital presence and product strategy for a sustainable product brand, operating at the intersection of business and tech.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Startups & Products
-```
-◉ MVP Prototyping & Launch
-◉ EdTech & Learning Platforms
-◉ Business Automation Tools
-◉ Growth Engineering & Hacking
-◉ Product Strategy & UX Design
-◉ B2B SaaS Architecture
-```
+### ♻️ Smart E-Waste Bin
+**HAXPLORE Hackathon (IIT BHU)**
+Engineered an intelligent e-waste management system during an intensive 72-hour coding sprint and presented at national-level science exhibitions.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Always Learning
-```
-◉ Advanced System Architecture
-◉ Cloud-Native Infrastructure
-◉ LLM Fine-tuning & RAG Systems
-◉ Microservices & Event-Driven
-◉ Cybersecurity Fundamentals
-◉ Data Structures & Algorithms
-```
+### 📚 THE PROMPT POWER
+**Author | Published on Bookalooza**
+Authored a comprehensive guide covering practical AI tool usage, optimization, and advanced prompting techniques.
 
 </td>
 </tr>
@@ -168,39 +137,18 @@ const vishwajeet: Developer = {
 
 ---
 
-## `> tail -f activity.log`
-
-<div align="center">
-
-### Weekly Dev Breakdown
-```text
-Python       ████████████░░░░░░░░   48.5%   12h 30m
-JavaScript   ██████░░░░░░░░░░░░░░   24.6%    6h 20m
-React/TSX    ████░░░░░░░░░░░░░░░░   16.2%    4h 10m
-CSS/SCSS     ██░░░░░░░░░░░░░░░░░░    8.1%    2h 05m
-Other        █░░░░░░░░░░░░░░░░░░░    2.6%      40m
-```
-
-<img src="https://ghchart.rshah.org/00f5ff/codeby-Vishwajeet" width="100%" alt="Contribution Heatmap"/>
-
-</div>
-
----
-
-## `> roadmap --year 2025`
+## `> roadmap --year 2026`
 
 <div align="center">
 
 | Objective | Progress | ETA |
 |:---|:---:|:---:|
-| 🏗️ Ship 10+ production projects | `████████░░` 80% | Q3 |
-| 🧠 Master advanced LLM engineering | `███████░░░` 70% | Q4 |
-| 📝 Publish 50+ technical articles | `███░░░░░░░` 30% | Q4 |
-| 🌍 Contribute to 20+ open source projects | `██████░░░░` 60% | Q3 |
-| 🎓 Earn 5+ cloud/AI certifications | `████████░░` 80% | Q2 |
-| 🚀 Launch my first startup | `██░░░░░░░░` 20% | Q4 |
+| 🏗️ Scale AUTOFOUNDER X & S.A.M. | `████████░░` 80% | Q3 |
+| 🧠 Master LLM Fine-Tuning | `███████░░░` 70% | Q4 |
+| 🌍 Expand Vanalux reach | `██████░░░░` 60% | Q3 |
+| 🎓 Complete Google Cloud "The Arcade" | `████████░░` 80% | Q2 |
 | ⭐ Hit 1K+ GitHub followers | `█████░░░░░` 50% | Q3 |
-| 🎤 Speak at a tech conference | `░░░░░░░░░░` 0% | Q4 |
+| 🎤 Pitch at more startup summits | `███░░░░░░░` 30% | Q4 |
 
 </div>
 
@@ -219,16 +167,7 @@ Other        █░░░░░░░░░░░░░░░░░░░    2.6
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishwajeet_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishwajeet.codes)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vishwajeetcodes)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishwajeet)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/vishwajeet)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vishwajeet)
-
-<br/>
-
-> 💬 **I respond fast.** Especially to interesting ideas, collab proposals, and startup pitches.
+> 💬 **I respond fast.** Especially to interesting ideas, hackathon team-ups, and startup pitches.
 
 </div>
 
@@ -250,33 +189,17 @@ Other        █░░░░░░░░░░░░░░░░░░░    2.6
 
 ---
 
-## `> brew install coffee && build`
-
-<div align="center">
-
-**If my work helped you or sparked an idea — consider fuelling the next build! ☕**
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/CodeWithVishwajeet)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vishwajeetdev)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vishwajeetdev)
-
-</div>
-
----
-
 ## `> cat fun_facts.json`
 
 ```json
 {
-  "favorite_language"   : "Python 🐍  (but TypeScript is catching up)",
-  "editor"              : "VS Code — 50+ extensions and zero regrets",
-  "coffee_per_day"      : "☕☕☕☕☕",
-  "debug_method"        : "console.log() first, think later",
-  "coding_soundtrack"   : "Lo-fi beats & Synthwave",
-  "dream_project"       : "AI that genuinely helps humanity 🌍",
-  "superpower"          : "Turning caffeine into production-ready code",
-  "currently_reading"   : "Clean Code — Robert C. Martin",
-  "fun_fact"            : "Started young. Still going. Won't stop. ⚡"
+  "favorite_stack"    : "Next.js + Tailwind + Python AI backends",
+  "editor"            : "VS Code — 50+ extensions and zero regrets",
+  "coffee_per_day"    : "☕☕☕☕☕",
+  "design_obsession"  : "Glassmorphism & physics-based UI",
+  "dream_project"     : "AI that genuinely helps humanity 🌍",
+  "superpower"        : "Turning caffeine into 72-hour hackathon builds",
+  "fun_fact"          : "Started young. Still going. Won't stop. ⚡"
 }
 ```
 
@@ -284,7 +207,6 @@ Other        █░░░░░░░░░░░░░░░░░░░    2.6
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -293,12 +215,11 @@ Other        █░░░░░░░░░░░░░░░░░░░    2.6
 
 <br/>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b263b,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>
   <b>⭐ Star repositories you find useful — it genuinely motivates more open-source work!</b><br/>
-  <code>© 2025 Vishwajeet Ramniwas • Built with passion, caffeine & code</code>
+  <code>© 2026 Vishwajeet Ramniwas • Built with passion, caffeine & code</code>
 </sub>
 
 </div>
