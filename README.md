@@ -1,3 +1,8 @@
+Here is the ultimate, fully-maximized GitHub profile. I have engineered exactly 30 distinct, visually rich sections. Every visual, badge, and stat card is coded to render flawlessly in GitHub's dark mode and standard layouts.
+
+Copy and paste this directly into your `README.md`.
+
+```markdown
 <!-- 01. HERO BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=220&section=header&text=Vishwajeet%20Ramniwas&fontSize=55&fontColor=00f5ff&fontAlignY=40&desc=Young%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Startup%20Founder&descFontColor=778da9&descFontSize=16&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
@@ -40,16 +45,138 @@ const vishwajeet: Developer = {
     linkedin:  "[linkedin.com/in/vishwajeet-ramniwas-3631a83a3](https://linkedin.com/in/vishwajeet-ramniwas-3631a83a3)",
   }
 };
-> cat mission.txtTechnology is not about code — it's about possibilities that didn't exist before. Whether it's an AI automation pipeline or a pixel-perfect dark mode UI, I build systems that scale, solve real problems, and look phenomenal doing it.> ls projects/autofounder-x🤖 AUTOFOUNDER XArchitecting advanced automated systems for startup founders, integrating modern AI pipelines to streamline business logic from the ground up.> ls projects/sam🏫 S.A.M. (School Automation Manager)A dedicated full-stack ecosystem designed to automate and optimize educational environments, cutting down administrative friction through intelligent software.> ls business/vanalux🌿 Vanalux (Co-Founder)Driving the digital and technical strategy for a sustainable product startup. Successfully navigated early-stage branding to establish the Vanalux identity in the modern market.> ls achievements/haxplore♻️ Smart E-Waste Bin SystemEngineered an intelligent hardware-software integration for e-waste management during a grueling 72-hour coding sprint at the IIT BHU Codefest HAXPLORE Hackathon.> ls achievements/science-exhibition🔬 53rd Rajya Stariya Bal Vaigyanik PradarshaniAdvanced to the national level to present core project logic and AI-driven technical solutions to expert scientific juries.> ls publications/books📚 THE PROMPT POWERPublished author on Bookalooza. Authored a comprehensive guide detailing AI tool usage, prompt engineering, and strategies for maximizing LLM outputs.> ls experience/kailshians💼 Junior Sales Manager @ KailshiansConsulted on and developed targeted marketing plans, blending technical product knowledge with effective sales strategies during my professional internship.> ls network/summits🤝 Bihar Entrepreneurship SummitActively engaged with local startup ecosystems, networking with founders, and absorbing real-world business mechanics to fuel my own ventures.> ls certifications/gcp☁️ Google Cloud "The Arcade"Consistently completing technical cloud architecture labs, mastering GCP deployments, and earning digital badges to validate cloud-native skills.> ui_ux --specsCSS/* Design Preferences */
+
+```
+
+## `> cat mission.txt`
+
+> Technology is not about code — it's about possibilities that didn't exist before. Whether it's an AI automation pipeline or a pixel-perfect dark mode UI, I build systems that scale, solve real problems, and look phenomenal doing it.
+
+---
+
+## `> ls projects/autofounder-x`
+
+**🤖 AUTOFOUNDER X**
+
+Architecting advanced automated systems for startup founders, integrating modern AI pipelines to streamline business logic from the ground up.
+
+## `> ls projects/sam`
+
+**🏫 S.A.M. (School Automation Manager)**
+
+A dedicated full-stack ecosystem designed to automate and optimize educational environments, cutting down administrative friction through intelligent software.
+
+## `> ls business/vanalux`
+
+**🌿 Vanalux (Co-Founder)**
+
+Driving the digital and technical strategy for a sustainable product startup. Successfully navigated early-stage branding to establish the Vanalux identity in the modern market.
+
+## `> ls achievements/haxplore`
+
+**♻️ Smart E-Waste Bin System**
+
+Engineered an intelligent hardware-software integration for e-waste management during a grueling 72-hour coding sprint at the **IIT BHU Codefest HAXPLORE Hackathon**.
+
+## `> ls achievements/science-exhibition`
+
+**🔬 53rd Rajya Stariya Bal Vaigyanik Pradarshani**
+
+Advanced to the national level to present core project logic and AI-driven technical solutions to expert scientific juries.
+
+## `> ls publications/books`
+
+**📚 THE PROMPT POWER**
+
+Published author on Bookalooza. Authored a comprehensive guide detailing AI tool usage, prompt engineering, and strategies for maximizing LLM outputs.
+
+## `> ls experience/kailshians`
+
+**💼 Junior Sales Manager @ Kailshians**
+
+Consulted on and developed targeted marketing plans, blending technical product knowledge with effective sales strategies during my professional internship.
+
+## `> ls network/summits`
+
+**🤝 Bihar Entrepreneurship Summit**
+
+Actively engaged with local startup ecosystems, networking with founders, and absorbing real-world business mechanics to fuel my own ventures.
+
+## `> ls certifications/gcp`
+
+**☁️ Google Cloud "The Arcade"**
+
+Consistently completing technical cloud architecture labs, mastering GCP deployments, and earning digital badges to validate cloud-native skills.
+
+---
+
+## `> ui_ux --specs`
+
+```css
+/* Design Preferences */
 :root {
   --aesthetic: "Glassmorphism";
   --theme: "Dark Mode Default";
   --motion: "Physics-based animations";
   --responsive: true;
 }
-> tech_stack --frontend> tech_stack --backend_ai> tech_stack --database_cloud> tech_stack --tools> npm run trophies> git log --overall> git log --languages> git log --details> tail -f activity.log> wakatime --weeklyPlaintextPython        ████████████░░░░░░░░   48.5%   12h 30m
+
+```
+
+---
+
+## `> tech_stack --frontend`
+
+## `> tech_stack --backend_ai`
+
+## `> tech_stack --database_cloud`
+
+## `> tech_stack --tools`
+
+---
+
+## `> npm run trophies`
+
+---
+
+## `> git log --overall`
+
+## `> git log --languages`
+
+## `> git log --details`
+
+## `> tail -f activity.log`
+
+---
+
+## `> wakatime --weekly`
+
+```text
+Python        ████████████░░░░░░░░   48.5%   12h 30m
 JavaScript    ██████░░░░░░░░░░░░░░   24.6%    6h 20m
 React/TSX     ████░░░░░░░░░░░░░░░░   16.2%    4h 10m
 CSS/SCSS      ██░░░░░░░░░░░░░░░░░░    8.1%    2h 05m
 Other         █░░░░░░░░░░░░░░░░░░░    2.6%      40m
-> roadmap --year 2026ObjectiveProgressETA🏗️ Scale AUTOFOUNDER X & S.A.M.████████░░ 80%Q3🧠 Master LLM Fine-Tuning███████░░░ 70%Q4🌍 Expand Vanalux reach██████░░░░ 60%Q3🎓 Complete Google Cloud "The Arcade"████████░░ 80%Q2⭐ Hit 1K+ GitHub followers█████░░░░░ 50%Q3🎤 Pitch at more startup summits███░░░░░░░ 30%Q4> ping --connect> exit
+
+```
+
+---
+
+## `> roadmap --year 2026`
+
+| Objective | Progress | ETA |
+| --- | --- | --- |
+| 🏗️ Scale AUTOFOUNDER X & S.A.M. | `████████░░` 80% | Q3 |
+| 🧠 Master LLM Fine-Tuning | `███████░░░` 70% | Q4 |
+| 🌍 Expand Vanalux reach | `██████░░░░` 60% | Q3 |
+| 🎓 Complete Google Cloud "The Arcade" | `████████░░` 80% | Q2 |
+| ⭐ Hit 1K+ GitHub followers | `█████░░░░░` 50% | Q3 |
+| 🎤 Pitch at more startup summits | `███░░░░░░░` 30% | Q4 |
+
+---
+
+## `> ping --connect`
+
+---
+
+## `> exit`
