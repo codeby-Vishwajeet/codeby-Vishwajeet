@@ -221,13 +221,14 @@ const vishwajeet = {
 
 ## 🐍 Contribution Snake Animation
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vishwajeet-Ramniwas!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
