@@ -1,8 +1,3 @@
-Here is the ultimate, fully-maximized GitHub profile. I have engineered exactly 30 distinct, visually rich sections. Every visual, badge, and stat card is coded to render flawlessly in GitHub's dark mode and standard layouts.
-
-Copy and paste this directly into your `README.md`.
-
-```markdown
 <!-- 01. HERO BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1b2a,100:1b263b&height=220&section=header&text=Vishwajeet%20Ramniwas&fontSize=55&fontColor=00f5ff&fontAlignY=40&desc=Young%20AI%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Startup%20Founder&descFontColor=778da9&descFontSize=16&descAlignY=62&animation=fadeIn&stroke=00f5ff&strokeWidth=1" width="100%"/>
