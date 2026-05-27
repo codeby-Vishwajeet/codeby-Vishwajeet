@@ -134,8 +134,12 @@ const vishwajeet = {
 
 ## 📈 Contribution Graph
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vishwajeet-Ramniwas!;I'm+a+learning+developer...;CRAZY+fan+of+web3,+cloud;And+I'm+a+workaholic+person;looking+to+contribute;into+myorganization,+OS)](https://git.io/typing-svg)
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%" alt="Contribution Graph" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
