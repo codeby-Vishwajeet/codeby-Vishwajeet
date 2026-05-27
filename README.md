@@ -1,14 +1,14 @@
-# 🌌 Vishwajeet Ramniwas — GitHub Profile README
+# 🌌 Vishwajeet Ramniwas
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0ea5e9,100:9333ea&text=Vishwajeet%20Ramniwas&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20Developer%20•%20Full-Stack%20Engineer%20•%20Future%20Tech%20Founder&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00D9FF,100:7C3AED&text=Vishwajeet%20Ramniwas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20•%20Full-Stack%20Engineer%20•%20Future%20Founder&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI+Products+for+the+Future;Full-Stack+Developer+from+India;Creating+Modern+Web+Experiences;Learning+%2B+Building+Everyday+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI+Products+for+the+Future;Full-Stack+Developer+from+India;Creating+Modern+Digital+Experiences;Learning+%2B+Building+Everyday+%F0%9F%9A%80" />
 
 </div>
 
@@ -16,21 +16,23 @@
 
 # 👨‍💻 About Me
 
-Hi, I'm **Vishwajeet Ramniwas** — a passionate young developer from India focused on AI, Full-Stack Development, and building impactful digital products.
+```yaml
+Name: Vishwajeet Ramniwas
+Role: AI Developer & Full-Stack Engineer
+Location: India 🇮🇳
 
-I enjoy creating:
+Focus:
+  - AI Applications
+  - Full-Stack Development
+  - Startup MVPs
+  - Automation Systems
 
-* 🤖 AI-powered applications
-* 🌐 Modern web platforms
-* 🚀 Startup MVPs
-* ⚡ Smart automation tools
-
-Currently improving my:
-
-* Advanced AI Engineering
-* Backend Architecture
-* Cloud & DevOps
-* System Design Skills
+Currently Learning:
+  - Advanced AI Engineering
+  - Backend Architecture
+  - Cloud & DevOps
+  - System Design
+```
 
 ---
 
@@ -44,7 +46,7 @@ Currently improving my:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -66,7 +68,7 @@ Currently improving my:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -76,7 +78,7 @@ Currently improving my:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -101,22 +103,22 @@ Currently improving my:
 # 🚀 Currently Building
 
 * 🤖 AI-powered web applications
-* 🌐 Full-stack startup MVPs
-* ⚡ Automation platforms
-* 📚 Advanced AI engineering skills
-* 🚀 Scalable SaaS products
+* 🌐 Modern full-stack platforms
+* ⚡ Automation systems
+* 📚 AI engineering skills
+* 🚀 Startup MVPs
 
 ---
 
-# 🌟 Goals for 2026
+# 🎯 Goals
 
-| Goal                         | Progress   |
-| ---------------------------- | ---------- |
-| 🚀 Build More AI Projects    | ████████░░ |
-| 🌐 Launch Startup MVPs       | ██████░░░░ |
-| 📚 Master Backend Systems    | ███████░░░ |
-| 💻 Open Source Contributions | ██████░░░░ |
-| 🎯 Become AI Engineer        | ████████░░ |
+| Goal                  | Progress   |
+| --------------------- | ---------- |
+| 🚀 AI Projects        | ████████░░ |
+| 🌐 Full-Stack Mastery | ███████░░░ |
+| ☁️ Cloud & DevOps     | ██████░░░░ |
+| 💻 Open Source        | ███████░░░ |
+| 🎯 Startup Building   | █████░░░░░ |
 
 ---
 
@@ -124,7 +126,7 @@ Currently improving my:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -158,32 +160,20 @@ Currently improving my:
 
 ---
 
-# 💡 Developer Quote
+# 💡 Quote
 
 <div align="center">
 
-> *"Started early. Building daily. Dreaming globally."* 🚀
+### "Started early. Building daily. Dreaming globally." 🚀
 
 </div>
 
 ---
 
-# ☕ Support Me
+# 🌈 Thanks for Visiting
 
 <div align="center">
 
-<a href="https://buymeacoffee.com/CodeWithVishwajeet">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌈 Let's Build Something Amazing Together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:9333ea"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:7C3AED"/>
 
 </div>
