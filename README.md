@@ -500,7 +500,7 @@ Dream          : Build a profitable AI SaaS startup
 
 ## Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/output/snake.svg)
+![GitHub Contribution Snake](https://github.com/codeby-Vishwajeet/codeby-Vishwajeet/raw/output/snake.svg)
 ---
 
 ## Dev Quote
