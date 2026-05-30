@@ -535,75 +535,56 @@ Dream          : Build a profitable AI SaaS startup
 </div>
 
 ---
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
-<br/>
-
-<div style="
-    padding: 25px;
-    border-radius: 22px;
-    backdrop-filter: blur(10px);
-    background: linear-gradient(135deg, #ffffff10, #ffffff05);
-    border: 1px solid #ffffff30;
-    width: 85%;
-">
-
-### ✨ *Let’s connect, collaborate & build something legendary!*  
+<p align="center">
+  <strong>Let’s collaborate, create, and build something extraordinary!</strong><br/>
+  Feel free to reach out — I’m always open to new opportunities.
+</p>
 
 <br/>
 
-<!-- GitHub -->
 <a href="https://github.com/codeby-Vishwajeet">
-  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #4e4e4e);" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- LinkedIn -->
 <a href="https://linkedin.com/in/vishwajeet-ramniwas">
-  <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #0A66C2);" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Gmail -->
 <a href="mailto:srivrdeveloper@gmail.com">
-  <img src="https://img.icons8.com/fluency/60/gmail.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #D14836);" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- Twitter -->
 <a href="https://twitter.com/vishwajeet_dev">
-  <img src="https://img.icons8.com/ios-filled/60/1DA1F2/twitter.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #1DA1F2);" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<!-- Instagram -->
 <a href="https://instagram.com/vishwajeet__dev">
-  <img src="https://img.icons8.com/fluency/60/instagram-new.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #E4405F);" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<!-- Portfolio -->
 <a href="https://vishwajeet-ai-dev.netlify.app">
-  <img src="https://img.icons8.com/ios-filled/60/ffffff/domain.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #ffffff);" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<!-- Dev.to -->
 <a href="https://dev.to/codeby-vishwajeet">
-  <img src="https://img.icons8.com/ios-filled/60/ffffff/dev.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #333333);" />
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
-<!-- Hashnode -->
 <a href="https://hashnode.com/@codebyvishwajeet">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-hashnode-a-static-site-generator-powered-by-netlify-logo-shadow-tal-revivo.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #2962FF);" />
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### 🌈 *Feel free to DM anytime — I love meeting amazing developers!* 🚀  
+🌟 <em>Let’s create impactful work together — feel free to say hi anytime!</em>
 
 </div>
 
-<br/>
 
-</div>
 
 ---
 
