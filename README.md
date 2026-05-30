@@ -6,30 +6,36 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=🚀+Building+AI+Products+that+Matter;💡+Full-Stack+Developer+from+India+🇮🇳;🤖+Turning+Ideas+into+AI-Powered+Realities;⚡+Learning+%2B+Building+%2B+Shipping+Every+Day;🌐+Creating+the+Next+Generation+of+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+Products+that+Matter;Full-Stack+Developer+from+India;Turning+Ideas+into+AI-Powered+Realities;Learning+%2B+Building+%2B+Shipping+Every+Day;Creating+the+Next+Generation+of+Web+Apps;Started+Early.+Building+Daily.+Dreaming+Globally." alt="Typing SVG" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/codeby-Vishwajeet?style=for-the-badge&logo=github&logoColor=white&color=0F0C29&labelColor=302B63)](https://github.com/codeby-Vishwajeet)
+[![GitHub followers](https://img.shields.io/github/followers/codeby-Vishwajeet?style=for-the-badge&logo=github&logoColor=white&color=302B63&labelColor=0F0C29&label=Followers)](https://github.com/codeby-Vishwajeet)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=codeby-Vishwajeet&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)](https://github.com/codeby-Vishwajeet)
-[![GitHub Stars](https://img.shields.io/github/stars/codeby-Vishwajeet?style=for-the-badge&logo=github&color=302B63&labelColor=0F0C29)](https://github.com/codeby-Vishwajeet)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/codeby-Vishwajeet?style=for-the-badge&logo=github&color=302B63&labelColor=0F0C29&label=Stars)](https://github.com/codeby-Vishwajeet)
 
 </div>
 
 ---
 
-## 👨‍💻 Who Am I?
+## About Me
+
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ```typescript
 const vishwajeet = {
-  name: "Vishwajeet Ramniwas",
-  alias: "codeby-Vishwajeet",
-  role: ["AI Developer", "Full-Stack Engineer", "Future Founder"],
-  location: "India 🇮🇳",
-  email: "srivrdeveloper@gmail.com",
-  portfolio: "https://vishwajeet-ai-dev.netlify.app",
+  name     : "Vishwajeet Ramniwas",
+  alias    : "codeby-Vishwajeet",
+  role     : ["AI Developer", "Full-Stack Engineer", "Future Founder"],
+  location : "India",
+  email    : "srivrdeveloper@gmail.com",
+  portfolio: "vishwajeet-ai-dev.netlify.app",
 
   currentFocus: [
     "Building AI-powered web applications",
@@ -38,34 +44,79 @@ const vishwajeet = {
     "Launching startup MVPs",
   ],
 
-  lifePhilosophy: "Started early. Building daily. Dreaming globally. 🚀",
-
-  funFact: "I debug code at 2AM and call it 'peak productivity' 😄",
-  openToWork: true,
-  availableFor: ["Freelance", "Collaboration", "Internships", "Open Source"],
+  techPassions : ["LLMs", "Full-Stack", "DevOps", "SaaS"],
+  philosophy   : "Started early. Building daily. Dreaming globally.",
+  funFact      : "I debug code at 2AM and call it peak productivity",
+  openTo       : ["Freelance", "Collaboration", "Open Source"],
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🎯 Current Status
+## GitHub Statistics
 
 <div align="center">
 
-| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate On | 💬 Ask Me About |
-|:---|:---|:---|:---|
-| AI-Powered Web Apps | Advanced AI Engineering | Open Source Projects | React & Next.js |
-| Startup MVPs | Cloud & DevOps (AWS/GCP) | SaaS Products | Python & FastAPI |
-| Automation Systems | System Design | AI/ML Projects | Full-Stack Dev |
-| Full-Stack Platforms | LLM Integration | Startup Ideas | AI Applications |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=codeby-Vishwajeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=A78BFA&dates=888888"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Contribution Activity Graph
 
-### 🎨 Frontend
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=A78BFA"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=4"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=4&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+
+</div>
+
+---
+
+## Current Status
+
+<div align="center">
+
+| Working On | Learning | Open To Collaborate | Ask Me About |
+|:---|:---|:---|:---|
+| AI-Powered Web Apps | Advanced LLM Engineering | Open Source Projects | React & Next.js |
+| Startup MVPs | Cloud & DevOps (AWS/GCP) | SaaS Products | Python & FastAPI |
+| Automation Systems | System Design | AI/ML Projects | Full-Stack Dev |
+| Full-Stack Platforms | Kubernetes & Docker | Startup Ideas | AI Applications |
+
+</div>
+
+---
+
+## Complete Tech Arsenal
+
+### Frontend Development
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -76,10 +127,11 @@ const vishwajeet = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
 
-### ⚙️ Backend
+### Backend Development
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -88,11 +140,12 @@ const vishwajeet = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 </div>
 
-### 🗄️ Databases
+### Databases & Storage
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -101,22 +154,25 @@ const vishwajeet = {
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 </div>
 
-### 🤖 AI / ML
+### AI / ML / LLM Stack
 <div align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama_Local_LLM-000000?style=for-the-badge)
 
 </div>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -125,10 +181,11 @@ const vishwajeet = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
-### 🧰 Tools & Others
+### Developer Tools
 <div align="center">
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -138,153 +195,184 @@ const vishwajeet = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
+
+### AI-Powered Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true"/>
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| **AI Chat Platform** | Multi-model LLM chat with memory, RAG & streaming | Next.js · LangChain · OpenAI · MongoDB | Live |
+| **AI Resume Analyzer** | Upload resume — get ATS score + AI feedback + tips | React · FastAPI · Python · OpenAI | Live |
+| **Code Review Bot** | GitHub PR auto-reviewer with AI-powered suggestions | Node.js · GitHub API · Claude API | Building |
+| **AI Content Studio** | Generate SEO blogs, social posts & copy with 1 click | Next.js · GPT-4 · Firebase · Tailwind | Live |
+| **AI Study Buddy** | Personalized AI tutor — upload notes, quiz yourself | React · LangChain · Pinecone · Supabase | Building |
+| **Voice AI Assistant** | Browser-based voice assistant with real-time AI | Next.js · Whisper · TTS · OpenAI | Planned |
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=ffffff"/>
+</div>
+
+### Full-Stack Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|:---|:---|:---|:---:|
+| **SaaS Starter Kit** | Production-ready SaaS boilerplate with auth & billing | Next.js · Stripe · Prisma · PostgreSQL | Live |
+| **Dev Portfolio Builder** | Drag-and-drop portfolio builder for developers | React · Node.js · MongoDB · AWS S3 | Building |
+| **E-Commerce Platform** | Modern storefront with payments & admin panel | Next.js · Stripe · MongoDB · Tailwind | Live |
+| **Task Automation Hub** | No-code automation platform inspired by Zapier | Next.js · FastAPI · Redis · Docker | Planned |
+| **Analytics Dashboard** | Real-time SaaS analytics with beautiful charts | React · D3.js · Node.js · PostgreSQL | Live |
+| **URL Shortener Pro** | Smart URL shortener with analytics & QR codes | Next.js · Redis · PostgreSQL · Vercel | Live |
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=10"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🤖 AI Projects
-
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---|
-| **AI Chat Platform** | Full-stack LLM-powered chat app with memory & multi-model support | Next.js, LangChain, OpenAI, MongoDB | 🟢 Active |
-| **AI Resume Analyzer** | Upload resume → get AI-powered feedback, ATS score & improvements | React, FastAPI, Python, OpenAI | 🟢 Active |
-| **Code Review Bot** | GitHub bot that auto-reviews PRs using AI with detailed suggestions | Node.js, GitHub API, OpenAI | 🔨 Building |
-| **AI Content Generator** | Generate blog posts, social content & SEO copy with one click | Next.js, GPT-4, Tailwind, Firebase | 🟢 Active |
-
-### 🌐 Full-Stack Projects
-
-| Project | Description | Tech Stack | Status |
-|:---|:---|:---|:---|
-| **SaaS Starter Kit** | Production-ready SaaS boilerplate with auth, billing & dashboard | Next.js, Stripe, Prisma, PostgreSQL | 🟢 Active |
-| **Dev Portfolio Builder** | Drag-and-drop portfolio builder for developers | React, Node.js, MongoDB, AWS S3 | 🔨 Building |
-| **Task Automation Hub** | No-code automation platform inspired by Zapier | Next.js, FastAPI, Redis, Docker | 📋 Planned |
-| **E-Commerce Platform** | Modern storefront with payment integration & admin panel | Next.js, Stripe, MongoDB, Tailwind | 🟢 Active |
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/codeby-Vishwajeet?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Projects-302B63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![View All Repos](https://img.shields.io/badge/View_All_Repositories-302B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeby-Vishwajeet?tab=repositories)
 
 </div>
 
 ---
 
-## 🎯 2025 Goals & Progress
+## Developer Journey
 
-<div align="center">
-
-| 🎯 Goal | 📊 Progress | 🏁 Target |
-|:---|:---|:---|
-| 🤖 Ship 5 AI Projects | `████████░░` 80% | Dec 2025 |
-| 🌐 Full-Stack Mastery | `███████░░░` 70% | Dec 2025 |
-| ☁️ AWS Certification | `█████░░░░░` 50% | Sep 2025 |
-| 💻 100 Open Source PRs | `██████░░░░` 60% | Dec 2025 |
-| 🚀 Launch 1 SaaS MVP | `████░░░░░░` 40% | Oct 2025 |
-| 📝 Write 50 Tech Articles | `███░░░░░░░` 30% | Dec 2025 |
-| ⭐ 500 GitHub Stars | `██████░░░░` 60% | Dec 2025 |
-
-</div>
-
----
-
-## 🧠 Skills & Expertise
-
-<div align="center">
-
-```
-Frontend Development    ████████████████████░  95%
-React / Next.js         ███████████████████░░  90%
-Node.js / Express       ██████████████████░░░  85%
-Python / FastAPI        █████████████████░░░░  80%
-AI / LLM Integration    ████████████████░░░░░  75%
-Database Design         █████████████████░░░░  80%
-Docker / DevOps         ██████████████░░░░░░░  65%
-System Design           █████████████░░░░░░░░  60%
-Cloud (AWS/GCP)         ████████████░░░░░░░░░  55%
-UI/UX Design            ███████████████░░░░░░  70%
+```mermaid
+timeline
+    title Vishwajeet's Coding Journey
+    section 2022
+      HTML and CSS Basics : Built first static websites
+                          : Learned responsive design
+      JavaScript Intro    : DOM manipulation
+                          : First interactive pages
+    section 2023
+      React and Node.js   : Built first full-stack CRUD apps
+                          : Learned REST APIs and MongoDB
+      Python Discovery    : Django basics
+                          : First automation scripts
+    section 2024
+      Next.js TypeScript  : Production-ready apps
+                          : Type-safe full-stack dev
+      AI Integration      : LangChain and OpenAI APIs
+                          : Built first AI-powered product
+    section 2025
+      AI Engineer         : LLM fine-tuning and RAG systems
+                          : Shipping AI SaaS products
+      Startup Mode        : Building MVPs for real users
+                          : Open source contributions
 ```
 
+---
+
+## Skills Proficiency
+
+<div align="center">
+
+| Skill | Level | Progress |
+|:---|:---:|:---|
+| React and Next.js | Expert | `█████████████████████` 95% |
+| Tailwind CSS and UI | Expert | `████████████████████░` 92% |
+| TypeScript | Advanced | `███████████████████░░` 88% |
+| Node.js and Express | Advanced | `██████████████████░░░` 85% |
+| Python and FastAPI | Advanced | `█████████████████░░░░` 80% |
+| AI and LLM Integration | Advanced | `████████████████░░░░░` 76% |
+| MongoDB and PostgreSQL | Advanced | `█████████████████░░░░` 80% |
+| Docker and DevOps | Intermediate | `██████████████░░░░░░░` 65% |
+| AWS and GCP | Intermediate | `████████████░░░░░░░░░` 55% |
+| System Design | Intermediate | `█████████████░░░░░░░░` 60% |
+
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 2025 Goals and Milestones
+
+<div align="center">
+
+| Goal | Progress | Deadline | Notes |
+|:---|:---:|:---:|:---|
+| Ship 5 AI Projects | `████████░░` 80% | Dec 2025 | 4 out of 5 done |
+| Full-Stack Mastery | `███████░░░` 70% | Dec 2025 | Advanced level reached |
+| AWS Solutions Architect | `█████░░░░░` 50% | Sep 2025 | Studying SAA-C03 |
+| 100 Open Source PRs | `██████░░░░` 60% | Dec 2025 | 60 PRs merged |
+| Launch 1 SaaS MVP | `████░░░░░░` 40% | Oct 2025 | MVP in development |
+| Write 50 Tech Articles | `███░░░░░░░` 30% | Dec 2025 | 15 articles published |
+| 500 GitHub Stars | `██████░░░░` 60% | Dec 2025 | 300 stars earned |
+| 1000 GitHub Followers | `████░░░░░░` 40% | Dec 2025 | 400 followers |
+
+</div>
+
+---
+
+## Currently Learning
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Advanced_LLMs-A78BFA?style=for-the-badge"/>
-<br/>Fine-tuning, RAG, Agents
+<td align="center" width="180">
+
+**LLM Engineering**
+
+Fine-tuning · RAG · Agents
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge"/>
-<br/>Scalable architectures
+<td align="center" width="180">
+
+**System Design**
+
+Scalable · Distributed · HLD
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AWS_Solutions-FF9900?style=for-the-badge"/>
-<br/>Cloud architect path
+<td align="center" width="180">
+
+**AWS Architect**
+
+SAA-C03 · Lambda · EC2 · S3
+
+</td>
+<td align="center" width="180">
+
+**Kubernetes**
+
+Container orchestration
+
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<br/>Container orchestration
+<td align="center" width="180">
+
+**Rust Lang**
+
+Systems · Performance · Safety
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Rust_Language-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-<br/>Systems programming
+<td align="center" width="180">
+
+**Product Management**
+
+From developer to founder
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Product_Management-00C7B7?style=for-the-badge"/>
-<br/>From dev to founder
+<td align="center" width="180">
+
+**Web3 Basics**
+
+Smart contracts · Solidity
+
+</td>
+<td align="center" width="180">
+
+**DSA and Algorithms**
+
+LeetCode grinding · Interviews
+
 </td>
 </tr>
 </table>
@@ -293,201 +381,209 @@ UI/UX Design            ███████████████░░░�
 
 ---
 
-## 💼 Experience & Journey
-
-```mermaid
-timeline
-    title Vishwajeet's Developer Journey
-    2022 : Started with HTML & CSS
-         : Built first static websites
-    2023 : Learned JavaScript deeply
-         : Discovered React & Node.js
-         : Built first full-stack apps
-    2024 : Mastered Next.js & TypeScript
-         : Dived into AI & LLM integration
-         : Started building AI-powered products
-    2025 : Full-Stack AI Developer
-         : Building SaaS MVPs
-         : Open Source contributions
-         : Preparing to launch startup
-```
-
----
-
-## 🌟 Open Source Contributions
+## Latest Blog Posts and Articles
 
 <div align="center">
 
-[![An image of @codebyVishwajeet's Holopin badges](https://holopin.me/codeby-Vishwajeet)](https://holopin.io/@codeby-Vishwajeet)
+| Title | Tags | Published |
+|:---|:---|:---|
+| [How I Built an AI Web App from Scratch in 7 Days](https://vishwajeet-ai-dev.netlify.app/blog) | AI · Next.js · LangChain | May 2025 |
+| [LangChain Practical Guide for Developers](https://vishwajeet-ai-dev.netlify.app/blog) | LangChain · Python · LLM | Apr 2025 |
+| [Next.js 15 App Router Deep Dive](https://vishwajeet-ai-dev.netlify.app/blog) | Next.js · React · TypeScript | Apr 2025 |
+| [FastAPI vs Express: Backend Showdown 2025](https://vishwajeet-ai-dev.netlify.app/blog) | FastAPI · Node.js · Backend | Mar 2025 |
+| [System Design for Junior Developers](https://vishwajeet-ai-dev.netlify.app/blog) | System Design · Architecture | Mar 2025 |
+| [Building SaaS with Next.js + Stripe in 2025](https://vishwajeet-ai-dev.netlify.app/blog) | SaaS · Stripe · Next.js | Feb 2025 |
+| [JWT vs Session Auth: When to Use What](https://vishwajeet-ai-dev.netlify.app/blog) | Auth · Security · Backend | Feb 2025 |
 
 </div>
 
-I actively contribute to open source and believe in the power of community-driven development. Here's what I focus on:
-
-- 🐛 **Bug Fixes** — Finding and squashing bugs in popular libraries
-- 📝 **Documentation** — Improving docs for better developer experience  
-- ✨ **Features** — Adding new capabilities to tools I use daily
-- 🔍 **Code Reviews** — Helping maintainers review incoming PRs
-- 🌱 **Mentoring** — Helping beginners make their first contributions
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [How I Built an AI-Powered Web App from Scratch in 7 Days](https://vishwajeet-ai-dev.netlify.app/blog)
-- 🤖 [Understanding LangChain: A Practical Guide for Developers](https://vishwajeet-ai-dev.netlify.app/blog)
-- ⚡ [Next.js 14 App Router: Everything You Need to Know](https://vishwajeet-ai-dev.netlify.app/blog)
-- 🐍 [FastAPI vs Express: Which Backend Should You Choose in 2025?](https://vishwajeet-ai-dev.netlify.app/blog)
-- 🎯 [System Design for Junior Developers: Where to Start](https://vishwajeet-ai-dev.netlify.app/blog)
-<!-- BLOG-POST-LIST:END -->
-
 <div align="center">
 
-<a href="https://vishwajeet-ai-dev.netlify.app/blog">
-<img src="https://img.shields.io/badge/Read%20All%20Articles-A78BFA?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
+[![Read All Articles](https://img.shields.io/badge/Read_All_Articles-A78BFA?style=for-the-badge&logo=hashnode&logoColor=white)](https://vishwajeet-ai-dev.netlify.app/blog)
 
 </div>
 
 ---
 
-## 🎮 Coding Activity (WakaTime)
+## Open Source Contributions
+
+> I actively contribute to open source and believe in the power of community-driven development.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codeby_Vishwajeet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&layout=compact"/>
+| Type | What I Do | Count |
+|:---|:---|:---:|
+| **Bug Fixes** | Finding and squashing bugs in popular libraries | 25+ PRs |
+| **Documentation** | Improving docs for better developer experience | 30+ PRs |
+| **Features** | Adding new capabilities to tools I use daily | 15+ PRs |
+| **Code Reviews** | Helping maintainers review incoming PRs | 50+ Reviews |
+| **Mentoring** | Helping beginners make their first contributions | 20+ Devs |
+| **Testing** | Writing tests and improving coverage | 10+ PRs |
 
 </div>
 
-> 💡 *I spend most of my time in VS Code, building full-stack & AI projects. My most used languages are TypeScript, Python, and JavaScript.*
+<div align="center">
+
+[![Open Source](https://img.shields.io/badge/Open_Source_Lover-302B63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeby-Vishwajeet)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/codeby-Vishwajeet)
+
+</div>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## Weekly Dev Breakdown
 
 ```text
-TypeScript     ██████████████░░░░░░░   55.2%
-Python         ██████████░░░░░░░░░░░   38.4%
-CSS/Tailwind   ███░░░░░░░░░░░░░░░░░░   10.8%
-Markdown       ██░░░░░░░░░░░░░░░░░░░    8.1%
-JSON/YAML      █░░░░░░░░░░░░░░░░░░░░    4.3%
-Shell          █░░░░░░░░░░░░░░░░░░░░    3.2%
+Mon to Fri:  Full-Stack and AI Development
+Nights:      Deep Work — System Design and LLM Projects
+
+Languages Used This Week:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TypeScript   ██████████████████░░░   45.2%
+Python       ████████████████░░░░░   38.4%
+CSS/Tailwind ████░░░░░░░░░░░░░░░░░   10.8%
+Markdown     ███░░░░░░░░░░░░░░░░░░    8.1%
+YAML/JSON    ██░░░░░░░░░░░░░░░░░░░    4.3%
+Bash/Shell   ██░░░░░░░░░░░░░░░░░░░    3.2%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total: 30+ hours per week of deep focused work
 ```
 
 ---
 
-## 🌍 Visitor Map & Stats
+## Fun Facts About Me
 
 <div align="center">
 
-![](https://count.getloli.com/get/@codeby-Vishwajeet?theme=rule34)
-
-</div>
-
-<div align="center">
-
-| 📅 Coding Since | 🌍 Location | ⏰ Timezone | 🌐 Languages |
-|:---:|:---:|:---:|:---:|
-| 2022 | India 🇮🇳 | IST (UTC+5:30) | English, Hindi |
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### I'm always open to exciting opportunities!
-
-<a href="https://github.com/codeby-Vishwajeet">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:srivrdeveloper@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/vishwajeet-ramniwas">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/vishwajeet_dev">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://vishwajeet-ai-dev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://dev.to/codeby-vishwajeet">
-<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-<a href="https://hashnode.com/@vishwajeet-dev">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 💬 Testimonials & Feedback
-
-> *"Vishwajeet has an exceptional ability to turn complex AI concepts into working products quickly. His code is clean and his problem-solving approach is impressive."*
-> — **Collaborator on AI Project**
-
-> *"One of the most dedicated developers I've worked with. He ships fast and learns even faster."*
-> — **Open Source Maintainer**
-
-> *"Vishwajeet's full-stack skills combined with AI knowledge makes him stand out from most developers his age."*
-> — **Mentor & Senior Developer**
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🎲 Fun Facts About Me
-
-<div align="center">
-
-```
-🌙  I'm most productive between 10PM - 2AM (night owl coder)
-☕  I run on coffee + curiosity
-🎯  I set weekly goals every Sunday
-📖  I read at least one tech article every day
-🎮  I play chess to sharpen problem-solving skills
-🌱  I open-source everything I can
-🤝  I believe in "learn in public"
-🚀  I shipped my first AI app in just 3 days
+```yaml
+Night Owl      : Most productive between 10PM and 2AM
+Fuel           : Runs on coffee + curiosity + lo-fi beats
+Weekly Ritual  : Sets coding goals every Sunday night
+Daily Habit    : Reads at least one tech article every day
+Side Hobby     : Plays chess to sharpen problem-solving
+Philosophy     : Learn in public — shares everything openly
+Personal Best  : Shipped first AI app in just 3 days
+Belief         : Great software is built by great communities
+Superpower     : Turning complex AI ideas into real products
+Dream          : Build a profitable AI SaaS startup
 ```
 
 </div>
 
 ---
 
-## 💡 Dev Quote of the Day
+## Testimonials
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Started+early.+Building+daily.+Dreaming+globally.&author=Vishwajeet+Ramniwas"/>
-
-</div>
-
-<div align="center">
-
-### *"The best time to start was yesterday. The next best time is NOW."* 🚀
+> *"Vishwajeet has an exceptional ability to turn complex AI concepts into working products incredibly fast. His code is clean and his problem-solving mindset is impressive."*
+> **— Open Source Collaborator**
 
 ---
 
-### ⚡ *Started early. Building daily. Dreaming globally.*
+> *"One of the most dedicated developers I have worked with. He ships fast, learns even faster, and always brings energy to the team."*
+> **— Project Partner**
+
+---
+
+> *"Vishwajeet's combination of full-stack skills with deep AI knowledge makes him stand out from most developers his age. The future looks bright."*
+> **— Senior Developer and Mentor**
+
+</div>
+
+---
+
+## Contribution Snake
+
+> Add the GitHub Action below to auto-generate your snake animation:
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: codeby-Vishwajeet
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<div align="center">
+
+After setup, the animated snake will render here automatically from your real contribution data.
+
+</div>
+
+---
+
+## Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
+<br/><br/>
+
+### "The best time to start was yesterday. The next best time is NOW."
+
+### Started early. Building daily. Dreaming globally.
+
+</div>
+
+---
+
+## Quick Links
+
+<div align="center">
+
+| Link | Description |
+|:---|:---|
+| [Portfolio](https://vishwajeet-ai-dev.netlify.app) | My personal portfolio and projects showcase |
+| [Email](mailto:srivrdeveloper@gmail.com) | Reach out for collabs or freelance work |
+| [LinkedIn](https://linkedin.com/in/vishwajeet-ramniwas) | Professional profile and experience |
+| [Twitter/X](https://twitter.com/vishwajeet_dev) | Daily dev thoughts and updates |
+| [Blog](https://vishwajeet-ai-dev.netlify.app/blog) | Tech articles and tutorials |
+| [GitHub](https://github.com/codeby-Vishwajeet) | All my open-source code |
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I am always open to exciting opportunities!
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-codeby--Vishwajeet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeby-Vishwajeet)
+[![Gmail](https://img.shields.io/badge/Email-srivrdeveloper@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivrdeveloper@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajeet_Ramniwas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ramniwas)
+[![Twitter](https://img.shields.io/badge/Twitter-vishwajeet__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishwajeet_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishwajeet--ai--dev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeet-ai-dev.netlify.app)
+[![Dev.to](https://img.shields.io/badge/Dev.to-codeby--vishwajeet-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
+
+<br/>
+
+> Have a cool project idea? Want to collaborate? Just want to say hi? Drop me an email!
 
 </div>
 
@@ -495,14 +591,14 @@ Shell          █░░░░░░░░░░░░░░░░░░░░  
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243e,50:302B63,100:0F0C29&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:24243e,50:302B63,100:0F0C29&text=Thanks%20for%20Visiting!%20Drop%20a%20Star%20if%20you%20like%20my%20work!&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-**Made with ❤️ by Vishwajeet Ramniwas**
+**Made with love + coffee + AI by Vishwajeet Ramniwas**
 
-*If you like my work, consider giving a ⭐ to my repos!*
+*2025 codeby-Vishwajeet*
 
 </div>
