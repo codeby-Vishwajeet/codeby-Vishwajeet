@@ -59,17 +59,20 @@ const vishwajeet = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-Vishwajeet&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=radical">
 
 </div>
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=dark&hide_border=false)
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=codeby-Vishwajeet&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=A78BFA&currStreakNum=ffffff&sideNums=A78BFA&dates=888888"/>
-
-</div>
 
 ---
 
