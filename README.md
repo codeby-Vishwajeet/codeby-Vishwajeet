@@ -536,25 +536,72 @@ Dream          : Build a profitable AI SaaS startup
 
 ---
 
-## Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-I am always open to exciting opportunities!
+<br/>
+
+<div style="
+    padding: 25px;
+    border-radius: 22px;
+    backdrop-filter: blur(10px);
+    background: linear-gradient(135deg, #ffffff10, #ffffff05);
+    border: 1px solid #ffffff30;
+    width: 85%;
+">
+
+### ✨ *Let’s connect, collaborate & build something legendary!*  
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-codeby--Vishwajeet-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeby-Vishwajeet)
-[![Gmail](https://img.shields.io/badge/Email-srivrdeveloper@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivrdeveloper@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishwajeet_Ramniwas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwajeet-ramniwas)
-[![Twitter](https://img.shields.io/badge/Twitter-vishwajeet__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishwajeet_dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishwajeet--ai--dev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishwajeet-ai-dev.netlify.app)
-[![Dev.to](https://img.shields.io/badge/Dev.to-codeby--vishwajeet-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
+<!-- GitHub -->
+<a href="https://github.com/codeby-Vishwajeet">
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #4e4e4e);" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/vishwajeet-ramniwas">
+  <img src="https://img.icons8.com/ios-filled/60/0A66C2/linkedin.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #0A66C2);" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:srivrdeveloper@gmail.com">
+  <img src="https://img.icons8.com/fluency/60/gmail.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #D14836);" />
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/vishwajeet_dev">
+  <img src="https://img.icons8.com/ios-filled/60/1DA1F2/twitter.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #1DA1F2);" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/vishwajeet__dev">
+  <img src="https://img.icons8.com/fluency/60/instagram-new.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #E4405F);" />
+</a>
+
+<!-- Portfolio -->
+<a href="https://vishwajeet-ai-dev.netlify.app">
+  <img src="https://img.icons8.com/ios-filled/60/ffffff/domain.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #ffffff);" />
+</a>
+
+<!-- Dev.to -->
+<a href="https://dev.to/codeby-vishwajeet">
+  <img src="https://img.icons8.com/ios-filled/60/ffffff/dev.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #333333);" />
+</a>
+
+<!-- Hashnode -->
+<a href="https://hashnode.com/@codebyvishwajeet">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-hashnode-a-static-site-generator-powered-by-netlify-logo-shadow-tal-revivo.png" width="55" style="margin: 12px; filter: drop-shadow(0px 0px 8px #2962FF);" />
+</a>
+
+<br/><br/>
+
+### 🌈 *Feel free to DM anytime — I love meeting amazing developers!* 🚀  
+
+</div>
 
 <br/>
-
-> Have a cool project idea? Want to collaborate? Just want to say hi? Drop me an email!
 
 </div>
 
