@@ -500,9 +500,7 @@ Dream          : Build a profitable AI SaaS startup
 
 ## Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-snake-dark.svg#gh-dark-mode-only)
-
+![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph)
 ---
 
 ## Dev Quote
