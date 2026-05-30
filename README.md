@@ -500,7 +500,12 @@ Dream          : Build a profitable AI SaaS startup
 
 ## Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/codeby-Vishwajeet/codeby-Vishwajeet/raw/output/snake.svg)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## Dev Quote
