@@ -499,39 +499,10 @@ Dream          : Build a profitable AI SaaS startup
 ---
 
 ## Contribution Snake
+## 🐍 Contribution Graph Snake
 
-> Add the GitHub Action below to auto-generate your snake animation:
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: codeby-Vishwajeet
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<div align="center">
-
-After setup, the animated snake will render here automatically from your real contribution data.
-
-</div>
+![GitHub Snake Light](https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
