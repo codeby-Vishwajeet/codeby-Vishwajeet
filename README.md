@@ -54,7 +54,15 @@ const vishwajeet = {
 <br clear="right"/>
 
 ---
+## Contribution Snake
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 ## GitHub Statistics
 
 <div align="center">
@@ -494,16 +502,6 @@ Dream          : Build a profitable AI SaaS startup
 > *"Vishwajeet's combination of full-stack skills with deep AI knowledge makes him stand out from most developers his age. The future looks bright."*
 > **— Senior Developer and Mentor**
 
-</div>
-
----
-
-## Contribution Snake
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
