@@ -499,10 +499,9 @@ Dream          : Build a profitable AI SaaS startup
 ---
 
 ## Contribution Snake
-## 🐍 Contribution Graph Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/<YOUR-USERNAME>/<YOUR-USERNAME>/output/github-contribution-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
