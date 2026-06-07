@@ -1,1133 +1,871 @@
 <div align="center">
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░ ANIMATED HEADER BANNER ░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a192f,100:000000&height=280&section=header&text=VISHWAJEET%20RAMNIWAS&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=68&descSize=18&descColor=7dd3fc&stroke=00d4ff&strokeWidth=1" width="100%"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff7,100:7b2fff&height=220&section=header&text=VISHWAJEET%20RAMNIWAS&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ VISITOR COUNTER ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<img src="https://profile-counter.glitch.me/codeby-Vishwajeet/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+that+thinks+beyond+limits;Architecting+Full+Stack+Platforms+at+scale;Turning+ideas+into+deployed+products;Open+Source+%7C+Freelance+%7C+Startup+Mode;Code+%E2%86%92+Deploy+%E2%86%92+Impact" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<a href="https://vishwajeet-ai-dev.netlify.app">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=55&lines=Building+the+Future+with+AI+%F0%9F%A4%96;Shipping+Real+Products+%F0%9F%9A%80;Open+Source+%7C+SaaS+%7C+Enterprise+Dev+%F0%9F%94%A5;Solving+Problems+at+Scale+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-</div>
-
 <br/>
+
+<!-- VISITOR COUNTER + PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=codeby-Vishwajeet&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-00d4ff?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00d4ff" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE%20%7C%20COLLAB-7dd3fc?style=for-the-badge&labelColor=0d1117&logo=handshake&logoColor=7dd3fc" />
+
+</div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░ WHO AM I ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
+<!-- IDENTITY SECTION -->
 <div align="center">
 
-## ⟨ SYSTEM IDENTITY ⟩
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗      ██╗███████╗███████╗  ║
+║    ██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗     ██║██╔════╝██╔════╝  ║
+║    ██║   ██║██║███████╗███████║██║ █╗ ██║███████║     ██║█████╗  █████╗    ║
+║    ╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║██   ██║██╔══╝  ██╔══╝   ║
+║     ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║╚█████╔╝███████╗███████╗  ║
+║      ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝  ║
+║                                                                              ║
+║              AI Engineer  ·  Builder  ·  Founder Mindset                    ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+## ⚡ `$ whoami`
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  PROFILE LOADED — codeby-Vishwajeet @ GitHub                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  OPERATOR  : Vishwajeet Ramniwas                             ║
-║  ROLE      : AI Engineer / Full Stack Developer              ║
-║             Open Source Builder / Freelance Dev              ║
-║  STATUS    : [████████████] BUILDING IN PUBLIC               ║
-║  MISSION   : Ship products that solve real problems          ║
-║                                                              ║
-║  PORTFOLIO : https://vishwajeet-ai-dev.netlify.app           ║
-║  EMAIL     : srivrdeveloper@gmail.com                        ║
-║  DISCORD   : coding__caller_58735                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+identity:
+  name: "Vishwajeet Ramniwas"
+  alias: "codeby-Vishwajeet"
+  
+roles:
+  - "AI Engineer"
+  - "Full Stack Developer"
+  - "Open Source Builder"
+  - "Freelance Developer"
+
+mission: >
+  I don't just write code —
+  I architect systems, build products,
+  and solve real-world problems at scale.
+
+currently_building:
+  - "AI-powered SaaS platforms"
+  - "Intelligent automation systems"
+  - "Enterprise-grade web applications"
+  - "Developer tools & APIs"
+
+mindset: "Ship fast. Build smart. Scale ruthlessly."
 ```
 
-<br/>
+</td>
+<td width="45%" valign="top">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&custom_title=System+Performance+Metrics" width="100%"/>
 
-```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  "I don't just write code — I architect systems,                 │
-  │   engineer intelligence, and ship products that matter."         │
-  │                                          — Vishwajeet Ramniwas   │
-  └──────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=8b949e&background=0d1117" width="100%"/>
 
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░░ CONNECT MATRIX ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ CONNECTION PROTOCOLS
-
-<a href="https://vishwajeet-ai-dev.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00FFF7?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=00FFF7" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vishwajeet-ramniwas-3631a83a3" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/vishwajeet_codes/" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Vr_developer78/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
-</a>
-&nbsp;
-<a href="mailto:srivrdeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░ WHAT I BUILD (CORE DOMAINS) ░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ CORE BUILD DOMAINS
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="48"/><br/>
-      <b>AI Applications</b><br/>
-      <sub>LLMs · Agents · NLP<br/>ML Pipelines · RAG Systems</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/layers.png" width="48"/><br/>
-      <b>Full Stack Platforms</b><br/>
-      <sub>React · Next.js · FastAPI<br/>Node.js · PostgreSQL · Redis</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/cloud-computing.png" width="48"/><br/>
-      <b>SaaS Products</b><br/>
-      <sub>Multi-tenant Architecture<br/>Auth · Billing · Analytics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/settings.png" width="48"/><br/>
-      <b>Developer Tools</b><br/>
-      <sub>CLI Tools · APIs · SDKs<br/>Boilerplates · Frameworks</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/automation.png" width="48"/><br/>
-      <b>Automation Systems</b><br/>
-      <sub>Workflow Bots · Scrapers<br/>Data Pipelines · Schedulers</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/fluency/64/web.png" width="48"/><br/>
-      <b>Enterprise Web Apps</b><br/>
-      <sub>Scalable Architecture<br/>Performance · Security · DX</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+---
+
+## 🧠 `$ cat /dev/brain`
+
+> *"I don't just consume technology — I weaponize it to build systems that matter."*
+
+<div align="center">
+
+|  🎯 What I Build  |  🛠️ How I Build  |  🌍 Why I Build  |
+|:---:|:---:|:---:|
+| AI Applications | Clean Architecture | Real-World Impact |
+| SaaS Products | Scalable Systems | Open Source First |
+| Developer Tools | Test-Driven Dev | Community Growth |
+| Automation Systems | CI/CD Pipelines | Founder Mindset |
+| Enterprise Web Apps | API-First Design | Problem-Led Thinking |
+
+</div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🏆 `$ ls /achievements --premium`
 
 <div align="center">
 
-## ◈ TECH ARSENAL
+<!-- IIT MADRAS -->
+<table>
+<tr>
+<td align="center" width="33%">
 
-<sub>⚡ Technologies I architect with. Proficiency is not claimed—it is shipped.</sub>
+```
+┌─────────────────────────────┐
+│  🎓 IIT MADRAS AI SUMMIT    │
+│  ─────────────────────────  │
+│   Road Safety AI Theme      │
+│   National-Level Participant│
+│   AI Innovation Challenge   │
+│                             │
+│   [ PARTICIPANT BADGE ]     │
+└─────────────────────────────┘
+```
 
-</div>
+<img src="https://img.shields.io/badge/IIT%20Madras-AI%20Summit-FF6B35?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117"/>
 
-<br/>
+</td>
+<td align="center" width="33%">
 
-### ⟨ AI & MACHINE LEARNING ⟩
+```
+┌─────────────────────────────┐
+│  🔬 RSBVP 2026              │
+│  ─────────────────────────  │
+│  Rajya Stariya Bal          │
+│  Vaigyanik Pradarshini      │
+│  STATE REPRESENTATIVE       │
+│                             │
+│  [ STATE HONOR AWARD ]      │
+└─────────────────────────────┘
+```
 
-<div align="center">
+<img src="https://img.shields.io/badge/RSBVP-2026%20State%20Rep-00D4FF?style=for-the-badge&logo=experiment&logoColor=white&labelColor=0d1117"/>
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FFF7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d0d0d?style=for-the-badge&logo=openai&logoColor=00FFF7)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=013243)
+</td>
+<td align="center" width="33%">
 
-</div>
+```
+┌─────────────────────────────┐
+│  ⚡ CODEFEST'26             │
+│  ─────────────────────────  │
+│  IIT (BHU) Varanasi         │
+│  National Hackathon         │
+│  Elite Dev Participant      │
+│                             │
+│  [ FINALIST BADGE ]         │
+└─────────────────────────────┘
+```
 
-### ⟨ FRONTEND ENGINEERING ⟩
+<img src="https://img.shields.io/badge/CodeFest'26-IIT%20BHU%20Varanasi-7DD3FC?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Framer](https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=0055FF)
-![Three.js](https://img.shields.io/badge/Three.js-0d0d0d?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-</div>
-
-### ⟨ BACKEND & API ENGINEERING ⟩
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0d0d0d?style=for-the-badge&logo=django&logoColor=092E20)
-![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=E10098)
-![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![WebSockets](https://img.shields.io/badge/WebSockets-0d0d0d?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
-
-### ⟨ DATABASES & DATA LAYER ⟩
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=DC382D)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-</div>
-
-### ⟨ CLOUD, DEVOPS & INFRASTRUCTURE ⟩
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0d0d0d?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=for-the-badge&logo=nginx&logoColor=009639)
-
-</div>
-
-### ⟨ MICROSOFT AI ECOSYSTEM ⟩
-
-<div align="center">
-
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=0078D4)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Dataverse](https://img.shields.io/badge/Dataverse-0d0d0d?style=for-the-badge&logo=microsoftdynamics365&logoColor=002050)
-![Power Platform](https://img.shields.io/badge/Power_Platform-0d0d0d?style=for-the-badge&logo=microsoftpowerpoint&logoColor=742774)
-![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-
-</div>
-
-### ⟨ TOOLS & WORKFLOW ⟩
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Jira](https://img.shields.io/badge/Jira-0d0d0d?style=for-the-badge&logo=jira&logoColor=0052CC)
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░░ PROJECT SHOWCASE ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ PROJECT COMMAND CENTER
-
-<sub>⚡ Shipped projects — from concept to deployment. Real products, real users, real impact.</sub>
-
-</div>
-
-<br/>
-
-### ◉ FLAGSHIP SYSTEMS
+</td>
+</tr>
+</table>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⬡ AETHER</h3>
-      <b>Institutional-Grade Digital Asset Intelligence Platform</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-LIVE-00FFF7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-AI%20Platform-7b2fff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Scale-Enterprise-FF6F00?style=flat-square" /><br/><br/>
-      A next-generation platform delivering real-time intelligence, pattern recognition, and predictive analytics for digital asset markets. Built with institutional-grade reliability and precision-engineered data pipelines.<br/><br/>
-      <code>Python</code> <code>FastAPI</code> <code>React</code> <code>AI/ML</code> <code>WebSockets</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⬡ System Pulse Analytics Engine</h3>
-      <b>Real-Time Hardware Intelligence Framework</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-LIVE-00FFF7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-Analytics-7b2fff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Scale-Production-FF6F00?style=flat-square" /><br/><br/>
-      Deep system monitoring and hardware telemetry engine. Real-time CPU, memory, disk, and network analytics with anomaly detection, alerting, and intelligent diagnostics powered by ML inference.<br/><br/>
-      <code>Python</code> <code>psutil</code> <code>FastAPI</code> <code>React</code> <code>Recharts</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⬡ FastAPI Boilerplate</h3>
-      <b>Production-Grade API Architecture</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-PUBLIC-00FFF7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-Dev%20Tool-7b2fff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Scale-Open%20Source-FF6F00?style=flat-square" /><br/><br/>
-      A battle-tested FastAPI starter with auth, RBAC, PostgreSQL integration, async architecture, rate limiting, Docker support, and CI/CD pipelines — ready to ship on day one.<br/><br/>
-      <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code> <code>JWT</code> <code>Redis</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⬡ Private Chat Platform</h3>
-      <b>End-to-End Encrypted Messaging System</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-LIVE-00FFF7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-Communication-7b2fff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Scale-Production-FF6F00?style=flat-square" /><br/><br/>
-      A secure, real-time private messaging platform with E2E encryption, room-based architecture, user presence indicators, and zero-persistence message delivery using WebSockets.<br/><br/>
-      <code>Node.js</code> <code>Socket.io</code> <code>React</code> <code>MongoDB</code> <code>Crypto</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### ◉ CLIENT PROJECTS *(Paid & Delivered)*
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>💼 LMS Portal</h4>
-      <img src="https://img.shields.io/badge/CLIENT-PAID-gold?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-EdTech-blue?style=flat-square" /><br/><br/>
-      Full-featured Learning Management System with course builder, student tracking, payments, video hosting, and quiz engine. Deployed and live for client.<br/><br/>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code>
-    </td>
-    <td align="center" width="33%">
-      <h4>💼 Painting Selling Website</h4>
-      <img src="https://img.shields.io/badge/CLIENT-PAID-gold?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-E--Commerce-blue?style=flat-square" /><br/><br/>
-      Custom e-commerce platform for an artist client. Gallery showcase, cart system, secure checkout, and order management. Fully deployed and transacting.<br/><br/>
-      <code>React</code> <code>Stripe</code> <code>Node.js</code>
-    </td>
-    <td align="center" width="33%">
-      <h4>💼 Invoice Generator</h4>
-      <img src="https://img.shields.io/badge/CLIENT-PAID-gold?style=flat-square" />
-      <img src="https://img.shields.io/badge/Type-Business_Tool-blue?style=flat-square" /><br/><br/>
-      Professional invoice generation system with PDF export, itemized billing, tax calculations, branding customization, and client management dashboard.<br/><br/>
-      <code>React</code> <code>PDF.js</code> <code>Firebase</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### ◉ OPEN BUILD PORTFOLIO
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h4>🚌 Bus Ticket Booking</h4>
-      <img src="https://img.shields.io/badge/SHIPPED-00FFF7?style=flat-square" /><br/>
-      Seat selection, real-time availability, booking confirmation & ticket generation<br/><br/>
-      <code>React</code> <code>Node.js</code>
-    </td>
-    <td align="center" width="25%">
-      <h4>♻️ E-Waste Management</h4>
-      <img src="https://img.shields.io/badge/SHIPPED-00FFF7?style=flat-square" /><br/>
-      Collection scheduling, reward points, facility locator & environmental impact tracker<br/><br/>
-      <code>Next.js</code> <code>MongoDB</code>
-    </td>
-    <td align="center" width="25%">
-      <h4>🌐 Portfolio Website</h4>
-      <img src="https://img.shields.io/badge/LIVE-00FFF7?style=flat-square" /><br/>
-      Personal portfolio with 3D animations, project showcases & contact forms<br/><br/>
-      <code>React</code> <code>Three.js</code>
-    </td>
-    <td align="center" width="25%">
-      <h4>🖥️ Landing Pages</h4>
-      <img src="https://img.shields.io/badge/SHIPPED-00FFF7?style=flat-square" /><br/>
-      High-conversion landing pages for startups and product launches<br/><br/>
-      <code>Next.js</code> <code>Tailwind</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### ◉ COMING SOON — PROJECT ROADMAP
+<tr>
+<td align="center" width="50%">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🔭  PROJECTS CURRENTLY IN DEVELOPMENT / PLANNED                        │
-│                                                                         │
-│  ▸ [ Q3 2025 ]  AI Code Review Assistant — LLM-powered PR analyzer      │
-│  ▸ [ Q3 2025 ]  Multi-Agent Workflow Engine — Orchestrated AI agents     │
-│  ▸ [ Q4 2025 ]  SaaS Boilerplate — Next.js + Stripe + Auth full kit     │
-│  ▸ [ Q4 2025 ]  DevMetrics Dashboard — Open source GitHub analytics     │
-│  ▸ [ Q1 2026 ]  AI Interview Prep Platform — Real-time feedback engine  │
-│  ▸ [  TBA   ]  [REDACTED] — Stealth mode. Watch this space.             │
-└─────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────┐
+│  🌐 DEVFEST PARTICIPANT          │
+│  ──────────────────────────────  │
+│  Google Developer Groups         │
+│  Community Tech Festival         │
+│  Innovation & Dev Excellence     │
+│  [ COMMUNITY LEADER BADGE ]      │
+└──────────────────────────────────┘
 ```
 
-<br/>
+<img src="https://img.shields.io/badge/DevFest-Google%20Dev%20Community-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117"/>
 
----
+</td>
+<td align="center" width="50%">
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░ ACHIEVEMENT HALL ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+```
+┌──────────────────────────────────┐
+│  🤖 MICROSOFT AI LEARNING       │
+│  ──────────────────────────────  │
+│  Azure AI + Copilot Ecosystem    │
+│  Multi-Certification Track       │
+│  Enterprise AI Competency        │
+│  [ MICROSOFT CERTIFIED ]         │
+└──────────────────────────────────┘
+```
 
-<div align="center">
+<img src="https://img.shields.io/badge/Microsoft-AI%20Achievements-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117"/>
 
-## ◈ ACHIEVEMENT HALL OF DISTINCTION
-
-<sub>Recognition earned through technical excellence and public representation.</sub>
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%" style="border: 1px solid #00FFF7; border-radius: 12px; padding: 20px;">
-      <h3>🏛️ IIT Madras AI Summit</h3>
-      <img src="https://img.shields.io/badge/IIT%20MADRAS-Road%20Safety%20AI%20Theme-00FFF7?style=for-the-badge&logo=academia&logoColor=black" /><br/><br/>
-      Selected participant at one of India's most prestigious AI events, hosted by IIT Madras. Contributed to the Road Safety themed AI challenge — applying machine learning and intelligent systems to save lives on Indian roads.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-REPRESENTED-success?style=flat-square" />
-    </td>
-    <td align="center" width="50%" style="border: 1px solid #7b2fff; border-radius: 12px; padding: 20px;">
-      <h3>🔬 Rajya Stariya Bal Vaigyanik Pradarshini 2026</h3>
-      <img src="https://img.shields.io/badge/NATIONAL%20SCIENCE%20EXHIBITION-State%20Representative-7b2fff?style=for-the-badge&logo=flask&logoColor=white" /><br/><br/>
-      Represented the state at the Rajya Stariya Bal Vaigyanik Pradarshini 2026 — a nationally significant science exhibition for young innovators. Selected from across hundreds of district-level competitors.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-STATE%20REPRESENTATIVE-success?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border: 1px solid #FF6F00; border-radius: 12px; padding: 20px;">
-      <h3>⚡ CodeFest'26 — IIT (BHU) Varanasi</h3>
-      <img src="https://img.shields.io/badge/IIT%20BHU%20VARANASI-CodeFest%2026%20Participant-FF6F00?style=for-the-badge&logo=code&logoColor=white" /><br/><br/>
-      Competed at CodeFest'26 hosted by IIT (BHU) Varanasi — one of India's elite technical fests. Demonstrated engineering capability against top minds across the country in coding and system design challenges.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-COMPETED-success?style=flat-square" />
-    </td>
-    <td align="center" width="50%" style="border: 1px solid #EA4335; border-radius: 12px; padding: 20px;">
-      <h3>🌐 Google DevFest</h3>
-      <img src="https://img.shields.io/badge/GOOGLE-DevFest%20Participant-EA4335?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
-      Participated in Google DevFest — a global developer event by Google, bringing together engineers and builders from across the technology ecosystem to learn, connect, and build with Google's latest platforms.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-ATTENDED-success?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: 1px solid #0078D4; border-radius: 12px; padding: 20px;">
-      <h3>🏆 Microsoft AI Learning Achievements</h3>
-      <img src="https://img.shields.io/badge/MICROSOFT-AI%20Learning%20Achiever-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/><br/>
-      Completed the Microsoft AI learning track — earning multiple credentials across Copilot, AI Fundamentals, Prompt Engineering, and the Power Platform ecosystem. Recognized by Microsoft for learning achievements and verified competency across enterprise AI tools.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Microsoft%20Learn-Verified%20Achiever-0078D4?style=flat-square&logo=microsoft" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/AI%20Learning%20Path-Completed-success?style=flat-square" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+</div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░ CERTIFICATIONS HALL ░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🚀 `$ docker ps --projects`
 
 <div align="center">
 
-## ◈ CERTIFICATIONS HALL
-
-<sub>Verified credentials. Every certificate earned — not claimed.</sub>
+### ◈ FLAGSHIP SYSTEMS
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Microsoft-365%20Copilot%20Chat-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/><br/>
-      <b>Microsoft 365 Copilot Chat</b><br/>
-      <sub>Enterprise AI Collaboration</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-CERTIFIED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Microsoft-Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/><br/>
-      <b>Microsoft Copilot Studio</b><br/>
-      <sub>AI Agent Development</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-CERTIFIED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Microsoft-Dataverse%20For%20Teams-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" /><br/><br/>
-      <b>Dataverse For Teams</b><br/>
-      <sub>Enterprise Data Platform</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-CERTIFIED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/AI-Prompt%20Engineering-7b2fff?style=for-the-badge&logo=openai&logoColor=white" /><br/><br/>
-      <b>Prompt Engineering</b><br/>
-      <sub>LLM Optimization & Design</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-CERTIFIED-success?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Microsoft-Work%20Smarter%20With%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/><br/>
-      <b>Work Smarter With AI</b><br/>
-      <sub>AI Productivity Mastery</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-CERTIFIED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/IIT%20BHU-CodeFest%20Certificate-FF6F00?style=for-the-badge&logo=code&logoColor=white" /><br/><br/>
-      <b>CodeFest'26</b><br/>
-      <sub>IIT (BHU) Varanasi</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-EARNED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Google-DevFest%20Certificate-EA4335?style=for-the-badge&logo=google&logoColor=white" /><br/><br/>
-      <b>DevFest</b><br/>
-      <sub>Google Developer Community</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-EARNED-success?style=flat-square" />
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/FUTURE-Incoming%20Cert-555555?style=for-the-badge&logo=rocket&logoColor=white" /><br/><br/>
-      <b>[ UPCOMING ]</b><br/>
-      <sub>Actively pursuing · Loading...</sub><br/>
-      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-FFA116?style=flat-square" />
-    </td>
-  </tr>
+### 🔷 AETHER
+**Institutional-Grade Digital Asset Intelligence Platform**
+
+```
+Status  ████████████ PRODUCTION
+Type    ◈ AI-Powered Platform
+Scale   ◈ Enterprise Grade
+```
+
+> Institutional-grade intelligence layer for digital asset analytics. Built for performance, precision, and scale.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d4ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff)
+![AI/ML](https://img.shields.io/badge/AI%2FML-0d1117?style=flat-square&logo=tensorflow&logoColor=00d4ff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 SYSTEM PULSE ANALYTICS ENGINE
+**Real-Time Hardware Intelligence Framework**
+
+```
+Status  ████████████ PRODUCTION
+Type    ◈ Hardware Intelligence
+Scale   ◈ Real-Time Processing
+```
+
+> Real-time hardware telemetry and performance analytics engine. Monitors, analyzes, and visualizes system internals.
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socket.io&logoColor=7dd3fc)
+![Dashboard](https://img.shields.io/badge/Dashboard-0d1117?style=flat-square&logo=grafana&logoColor=7dd3fc)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 FASTAPI BOILERPLATE
+**Production-Grade API Architecture**
+
+```
+Status  ████████████ OPEN SOURCE
+Type    ◈ Developer Tooling
+Scale   ◈ Production Ready
+```
+
+> Battle-tested FastAPI starter with auth, rate limiting, async DB, Docker, and CI/CD pre-configured.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d4ff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00d4ff)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 PRIVATE CHAT PLATFORM
+**End-to-End Encrypted Messaging System**
+
+```
+Status  ████████████ PRODUCTION
+Type    ◈ Real-Time Application
+Scale   ◈ Secure Architecture
+```
+
+> Custom-built secure messaging platform with real-time communication, room-based chat, and encryption.
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=7dd3fc)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socket.io&logoColor=7dd3fc)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=7dd3fc)
+
+</td>
+</tr>
 </table>
 
-<br/>
+<div align="center">
+
+### ◈ CLIENT & COMMERCIAL PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**💼 LMS PORTAL**
+*Paid Client Project*
+
+```
+◈ E-Learning Platform
+◈ Student Dashboard
+◈ Course Management
+◈ Payment Gateway
+```
+
+![React](https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=00d4ff)
+![Node](https://img.shields.io/badge/NODE-0d1117?style=flat-square&logo=nodedotjs&logoColor=00d4ff)
+
+</td>
+<td align="center" width="25%">
+
+**🎨 PAINTING MARKETPLACE**
+*Paid Client Project*
+
+```
+◈ E-Commerce Store
+◈ Artist Portfolio
+◈ Secure Checkout
+◈ Gallery System
+```
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=flat-square&logo=nextdotjs&logoColor=7dd3fc)
+![Stripe](https://img.shields.io/badge/STRIPE-0d1117?style=flat-square&logo=stripe&logoColor=7dd3fc)
+
+</td>
+<td align="center" width="25%">
+
+**🧾 INVOICE GENERATOR**
+*Paid Client Project*
+
+```
+◈ PDF Generation
+◈ Client Management
+◈ Auto-Calculation
+◈ Export System
+```
+
+![React](https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=00d4ff)
+![jsPDF](https://img.shields.io/badge/JSPDF-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=00d4ff)
+
+</td>
+<td align="center" width="25%">
+
+**🚌 BUS TICKET APP**
+*Transport Platform*
+
+```
+◈ Seat Selection
+◈ Booking Engine
+◈ Route Management
+◈ Ticket QR Code
+```
+
+![React](https://img.shields.io/badge/REACT-0d1117?style=flat-square&logo=react&logoColor=7dd3fc)
+![Firebase](https://img.shields.io/badge/FIREBASE-0d1117?style=flat-square&logo=firebase&logoColor=7dd3fc)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**♻️ E-WASTE MGMT**
+*Green Tech Platform*
+
+```
+◈ Waste Tracking
+◈ Collection Points
+◈ Impact Dashboard
+◈ Admin Panel
+```
+
+![Python](https://img.shields.io/badge/PYTHON-0d1117?style=flat-square&logo=python&logoColor=00d4ff)
+![Django](https://img.shields.io/badge/DJANGO-0d1117?style=flat-square&logo=django&logoColor=00d4ff)
+
+</td>
+<td align="center" width="25%">
+
+**🌐 PORTFOLIO WEBSITE**
+*Personal Brand Hub*
+
+```
+◈ 3D Animations
+◈ Project Gallery
+◈ Contact System
+◈ Mobile-First
+```
+
+![Next.js](https://img.shields.io/badge/NEXT.JS-0d1117?style=flat-square&logo=nextdotjs&logoColor=7dd3fc)
+![Framer](https://img.shields.io/badge/FRAMER-0d1117?style=flat-square&logo=framer&logoColor=7dd3fc)
+
+</td>
+<td align="center" width="25%">
+
+**📄 LANDING PAGES**
+*Conversion-Optimized*
+
+```
+◈ High-Converting UI
+◈ A/B Tested
+◈ SEO Optimized
+◈ Analytics Ready
+```
+
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00d4ff)
+![TailwindCSS](https://img.shields.io/badge/TAILWIND-0d1117?style=flat-square&logo=tailwindcss&logoColor=00d4ff)
+
+</td>
+<td align="center" width="25%">
+
+**🔮 [CLASSIFIED]**
+*Coming Soon*
+
+```
+◈ ██████████████
+◈ ██████████████
+◈ ██████████████
+◈ Status: BUILDING
+```
+
+![Soon](https://img.shields.io/badge/STATUS-BUILDING-FF6B35?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ GITHUB ANALYTICS ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🛡️ `$ cat /certs/hall-of-fame`
 
 <div align="center">
 
-## ◈ GITHUB ANALYTICS CORE
+### ◈ CERTIFICATION HALL
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Microsoft%20365-Copilot%20Chat-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117"/>
+
+```
+Microsoft 365 Copilot Chat
+─────────────────────────
+Enterprise AI Productivity
+Microsoft Verified
+◈ CERTIFIED ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Microsoft-Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117"/>
+
+```
+Microsoft Copilot Studio
+─────────────────────────
+Custom Copilot Builder
+Low-Code AI Orchestration
+◈ CERTIFIED ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Microsoft-Dataverse%20For%20Teams-0078D4?style=for-the-badge&logo=microsoftsharepointonline&logoColor=white&labelColor=0d1117"/>
+
+```
+Dataverse For Teams
+─────────────────────────
+Enterprise Data Platform
+Power Platform Integration
+◈ CERTIFIED ◈
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/AI-Prompt%20Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
+
+```
+Prompt Engineering
+─────────────────────────
+Advanced AI Communication
+LLM Optimization Expert
+◈ CERTIFIED ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Microsoft-Work%20Smarter%20With%20AI-00D4FF?style=for-the-badge&logo=microsoftteams&logoColor=white&labelColor=0d1117"/>
+
+```
+Work Smarter With AI
+─────────────────────────
+AI Productivity Champion
+Workplace AI Integration
+◈ CERTIFIED ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CodeFest'26-IIT%20BHU-7DD3FC?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117"/>
+
+```
+CodeFest Certificate
+─────────────────────────
+IIT (BHU) Varanasi
+National Tech Fest
+◈ AWARDED ◈
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DevFest-Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117"/>
+
+```
+DevFest Certificate
+─────────────────────────
+Google Developer Groups
+Community Innovation
+◈ AWARDED ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Future-Certifications%20Loading-333?style=for-the-badge&logo=loading&logoColor=white&labelColor=0d1117"/>
+
+```
+[UPCOMING CERTIFICATION]
+─────────────────────────
+██████████████ 68%
+Currently In Progress...
+◈ LOADING... ◈
+```
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Future-Certifications%20Loading-333?style=for-the-badge&logo=loading&logoColor=white&labelColor=0d1117"/>
+
+```
+[UPCOMING CERTIFICATION]
+─────────────────────────
+██████████████ 41%
+On Learning Roadmap...
+◈ LOADING... ◈
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
+
+## ⚙️ `$ neofetch --tech-stack`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00fff7&icon_color=00fff7&title_color=00fff7&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" />
+### ◈ LANGUAGES
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=radical&background=0d0d0d&border=00fff7&ring=00fff7&fire=7b2fff&currStreakLabel=00fff7&sideLabels=ffffff&dates=888888" />
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+### ◈ AI / ML ECOSYSTEM
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+
+### ◈ FRONTEND ARSENAL
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0d1117?style=for-the-badge&logo=framer&logoColor=00D4FF)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+### ◈ BACKEND & API
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
+![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+
+### ◈ DATABASE & CLOUD
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+
+### ◈ DEVOPS & TOOLING
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
-<br/>
+---
+
+## 📊 `$ git log --analytics`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=compact&theme=radical&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Language+Intelligence+Matrix" width="45%"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=radical&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=github_dark&utcOffset=5.5" width="45%"/>
 
 </div>
-
-<br/>
-
-### ◈ GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=7dd3fc&area=true&area_color=00d4ff&custom_title=Contribution+Activity+Graph" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-### ◈ CONTRIBUTION ACTIVITY GRAPH
+## 🏅 `$ ./trophy --showcase`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-Vishwajeet&bg_color=0d0d0d&color=00fff7&line=7b2fff&point=ffffff&area=true&hide_border=false&border_color=00fff7&area_color=7b2fff" />
+<img src="https://github-profile-trophy.vercel.app/?username=codeby-Vishwajeet&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="100%"/>
 
 </div>
 
-<br/>
+---
 
-### ◈ CONTRIBUTION SNAKE
+## 🐍 `$ watch -n 1 snake --contributions`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/codeby-Vishwajeet/codeby-Vishwajeet/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
+> *Every green square is a step closer to the next breakthrough.*
 
-<br/>
+</div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░ DEVELOPER PHILOSOPHY ░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 🗺️ `$ cat /roadmap/2025-2026`
 
 <div align="center">
 
-## ◈ DEVELOPER PHILOSOPHY
+```
+DEVELOPER JOURNEY & ROADMAP
+══════════════════════════════════════════════════════════════════
+ 
+  2022 ──► Started with HTML/CSS/JavaScript
+            First web project shipped ✅
+  
+  2023 ──► Learned Python & backend development
+            Built first full-stack application ✅
+            Discovered AI/ML ecosystem ✅
+  
+  2024 ──► FastAPI + Advanced React mastery
+            First paid freelance client ✅
+            Open source contributor ✅
+  
+  2025 ──► IIT Madras AI Summit Participant ✅
+            RSBVP State Representative ✅
+            CodeFest'26 @ IIT BHU ✅
+            Microsoft AI Certifications ✅
+            Launched AETHER Platform 🔄
+  
+  2026 ──► [Q1] Scale SaaS products to paying users
+   NOW     [Q2] Launch developer tools on Product Hunt
+           [Q3] First open source project with 100+ stars
+           [Q4] Enterprise client acquisition
+  
+  FUTURE ► Build AI startup ◈ Raise seed round ◈ Go global
+══════════════════════════════════════════════════════════════════
+```
 
 </div>
 
-<br/>
+---
 
-<table align="center">
-  <tr>
-    <td width="50%" align="left" valign="top">
+## 🧬 `$ cat /philosophy/core.md`
+
+<div align="center">
+
+> ### *"Code is not just syntax. It's a system of thought that transforms ideas into reality."*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```
-╔═══════════════════════════════════════╗
-║  CORE ENGINEERING PRINCIPLES          ║
-╠═══════════════════════════════════════╣
-║                                       ║
-║  01.  Ship. Iterate. Improve.         ║
-║  02.  Systems > Hacks                 ║
-║  03.  Read the error. Own the fix.    ║
-║  04.  Architecture first, code second ║
-║  05.  Simplicity is engineered        ║
-║  06.  Measure. Don't assume.          ║
-║  07.  Build in public                 ║
-║  08.  Problems > Features             ║
-║  09.  Documentation is a product      ║
-║  10.  Compounding daily effort wins   ║
-║                                       ║
-╚═══════════════════════════════════════╝
+ENGINEERING PRINCIPLES
+══════════════════════
+◈ Build for scale from day one
+◈ APIs are products — design them
+◈ Readable code > clever code
+◈ Ship fast, iterate faster
+◈ Tests are not optional
+◈ Document what matters
+◈ Security is not a feature
+◈ Performance is UX
 ```
 
 </td>
-    <td width="50%" align="left" valign="top">
+<td width="50%" valign="top">
 
 ```
-╔═══════════════════════════════════════╗
-║  OPERATING SYSTEM                     ║
-╠═══════════════════════════════════════╣
-║                                       ║
-║  WAKE UP    →  Build something        ║
-║  PROBLEM    →  Research + Prototype   ║
-║  CODE       →  Commit + Push          ║
-║  FAIL       →  Debug + Learn          ║
-║  SHIP       →  Deploy + Monitor       ║
-║  FEEDBACK   →  Iterate fast           ║
-║  REPEAT     →  Forever                ║
-║                                       ║
-║  Mode:      Builder                   ║
-║  Gear:      Always on                 ║
-║  Goal:      Products that last        ║
-║                                       ║
-╚═══════════════════════════════════════╝
+FOUNDER MINDSET
+══════════════════════
+◈ Problems first, tech second
+◈ Users > code quality
+◈ Feedback loops > long sprints
+◈ Simple beats complex every time
+◈ Distribution is a moat
+◈ Build in public
+◈ Open source gives, always
+◈ Think in systems, not features
 ```
 
 </td>
-  </tr>
+</tr>
 </table>
 
-<br/>
+---
+
+## 🔬 `$ ls /open-source --contributions`
+
+<div align="center">
+
+| Type | Description | Status |
+|:---:|:---:|:---:|
+| 🔧 **Boilerplates** | Production-ready project starters | 🟢 Active |
+| 🤖 **AI Tools** | Utilities for LLM integration | 🟡 Building |
+| 📦 **npm Packages** | Reusable developer utilities | 🔵 Planned |
+| 📚 **Guides & Docs** | Architecture & system design docs | 🟢 Active |
+| 🛠️ **DevTools** | CLI tools and developer utilities | 🟡 Building |
+| 🔮 **Research** | AI experiments and findings | 🟡 In Progress |
+
+</div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░ DEVELOPER JOURNEY ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
+## 📡 `$ ping /contact --all-channels`
 
 <div align="center">
 
-## ◈ DEVELOPER TIMELINE
-
-</div>
-
-<br/>
-
-```
- ○────────────────────────────────────────────────────────────────────────●
- │                    VISHWAJEET'S ENGINEERING JOURNEY                     │
- ○────────────────────────────────────────────────────────────────────────●
-
- [GENESIS]       ──→  First line of code. Everything changed.
-        │
-        ▼
- [FOUNDATION]    ──→  HTML → CSS → JavaScript → Python
-                      Built first projects. Broke everything. Fixed it.
-        │
-        ▼
- [FULL STACK]    ──→  React · Node.js · FastAPI · PostgreSQL
-                      Deployed first real app. First users. First bugs.
-        │
-        ▼
- [AI IGNITION]   ──→  Discovered ML/AI. LLMs. APIs. Agents.
-                      AETHER born. System Pulse shipped.
-        │
-        ▼
- [FREELANCE]     ──→  First paid clients. LMS · Invoice · E-commerce.
-                      Real money for real software.
-        │
-        ▼
- [RECOGNITION]   ──→  IIT Madras AI Summit. CodeFest IIT BHU.
-                      State Science Exhibition. DevFest. Microsoft AI.
-        │
-        ▼
- [NOW]           ──→  Building harder. Shipping faster. Going further.
-                      Open Source · SaaS · Freelance · Research
-        │
-        ▼
- [NEXT]          ──→  [ CLASSIFIED — WATCH THIS SPACE ] 🔒
-```
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░ KNOWLEDGE MATRIX ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ KNOWLEDGE MATRIX
-
-</div>
-
-<br/>
-
-| Domain | Proficiency | Focus Area |
-|--------|-------------|------------|
-| 🤖 AI / LLM Engineering | `████████████` Advanced | Agents, RAG, Prompt Engineering |
-| 🖥️ Full Stack Development | `████████████` Advanced | React, Next.js, FastAPI, Node.js |
-| ☁️ Cloud & DevOps | `█████████░░░` Intermediate+ | AWS, Docker, GitHub Actions |
-| 🗄️ Database Architecture | `█████████░░░` Intermediate+ | PostgreSQL, MongoDB, Redis |
-| 🎨 UI/UX Engineering | `████████░░░░` Intermediate | Tailwind, Framer Motion, Figma |
-| 🔐 Security & Auth | `███████░░░░░` Intermediate | JWT, OAuth2, RBAC, Encryption |
-| 📊 Data Science | `████████░░░░` Intermediate | Pandas, NumPy, Visualization |
-| ⚙️ System Architecture | `████████░░░░` Intermediate | Microservices, APIs, Scalability |
-| 🪟 Microsoft AI Platform | `█████████░░░` Intermediate+ | Copilot, Dataverse, Power Platform |
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ AI RESEARCH ZONE ░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ AI RESEARCH & INTERESTS
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h4>🧠 Large Language Models</h4>
-      Fine-tuning · PEFT · LoRA<br/>RAG Systems · Vector Databases<br/>Agent Frameworks · Tool Use
-    </td>
-    <td align="center" width="33%">
-      <h4>📡 Real-Time AI Systems</h4>
-      Streaming Inference<br/>Low-latency ML Serving<br/>Edge AI · Model Optimization
-    </td>
-    <td align="center" width="33%">
-      <h4>🤝 Multi-Agent Systems</h4>
-      Orchestration Frameworks<br/>Agent Memory & Planning<br/>Tool-Using Agents
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🔍 AI for Civic Tech</h4>
-      Road Safety AI<br/>E-Waste Intelligence<br/>Public Infrastructure Analytics
-    </td>
-    <td align="center" width="33%">
-      <h4>⚙️ MLOps & AI Engineering</h4>
-      Model Versioning · Monitoring<br/>Data Pipelines · Feature Stores<br/>CI/CD for ML Systems
-    </td>
-    <td align="center" width="33%">
-      <h4>📊 Intelligent Analytics</h4>
-      Real-Time Dashboards<br/>Anomaly Detection<br/>Predictive Systems
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ BUILD LOG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ CURRENT BUILD LOG
-
-</div>
-
-<br/>
-
-```bash
-$ git log --oneline --author="Vishwajeet" --pretty=format:"%h %s"
-
-> BUILDING  : Multi-agent AI workflow engine
-> SHIPPING  : Open-source FastAPI starter kit
-> LEARNING  : Advanced LLM fine-tuning & LoRA
-> PLANNING  : SaaS product — stealth mode
-> READING   : Designing Data-Intensive Applications
-> COMPETING : Hackathons & open challenges
-> WRITING   : Technical documentation for all public repos
-
-$ echo "Status: [████████░░] Always shipping."
-```
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ FUTURE GOALS ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ MISSION OBJECTIVES
-
-</div>
-
-<br/>
-
-```
- VISHWAJEET'S ENGINEERING NORTH STAR
- ─────────────────────────────────────────────────────────
-
- [✓] Ship real projects that solve real problems
- [✓] Compete at IIT-level technical events
- [✓] Earn Microsoft AI certifications
- [✓] Land paid client projects as a freelancer
- [✓] Build institutional-grade AI platforms
- [ ] Launch a SaaS product with paying users
- [ ] Contribute to a 1000+ star open source project
- [ ] Build and lead a dev team
- [ ] Speak at a major tech conference
- [ ] Build India's most recognized AI developer brand
- [ ] ████████████████████████ [CLASSIFIED]
-
- STATUS: Executing. No pause. No quit. Just build.
-```
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░ LEARNING DASHBOARD ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ LEARNING DASHBOARD
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <th>Area</th>
-    <th>Resource / Activity</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>🤖 LLM Fine-Tuning</td>
-    <td>LoRA / QLoRA / PEFT techniques</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-FFA116?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>🐍 Advanced Python</td>
-    <td>Async, concurrency, design patterns</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-FFA116?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>☁️ AWS Architecture</td>
-    <td>Solutions Architect track</td>
-    <td><img src="https://img.shields.io/badge/PLANNED-555?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>📊 Data Engineering</td>
-    <td>Apache Kafka, Airflow, dbt</td>
-    <td><img src="https://img.shields.io/badge/PLANNED-555?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>🔐 Security</td>
-    <td>OWASP Top 10 · Pen-testing basics</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-FFA116?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td>🏗️ System Design</td>
-    <td>Distributed systems · Scalability</td>
-    <td><img src="https://img.shields.io/badge/ACTIVE-00FFF7?style=flat-square" /></td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░ OPEN SOURCE ZONE ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ OPEN SOURCE COMMITMENT
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     OPEN SOURCE IS NOT A CHECKBOX.                       │
-│         It's a commitment to the community that made you possible.       │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌟 Contributing</h3>
-      Actively contributing to open-source tools, libraries, and developer resources in the AI and full stack ecosystem
-    </td>
-    <td align="center" width="33%">
-      <h3>🔧 Maintaining</h3>
-      Publishing and maintaining open-source boilerplates, tools, and starter kits for the developer community
-    </td>
-    <td align="center" width="33%">
-      <h3>📖 Documenting</h3>
-      Writing production-level documentation so other devs can ship faster and understand deeper
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░ FREELANCE SERVICES ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ AVAILABLE FOR HIRE
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> **Building something ambitious? Let's talk.**
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h4>🤖 AI Integration</h4>
-      Add intelligence to your product. LLM APIs, chatbots, document AI, automation agents.
-    </td>
-    <td align="center" width="33%">
-      <h4>🖥️ Full Stack Development</h4>
-      End-to-end web applications — frontend, backend, database, deployment.
-    </td>
-    <td align="center" width="33%">
-      <h4>🚀 SaaS MVP Build</h4>
-      From zero to deployed MVP. Fast, clean, and built to scale.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>⚙️ API & Backend Systems</h4>
-      FastAPI · Node.js · GraphQL backends that perform under load.
-    </td>
-    <td align="center" width="33%">
-      <h4>🎨 Frontend Engineering</h4>
-      Pixel-perfect, performant, accessible UIs that convert.
-    </td>
-    <td align="center" width="33%">
-      <h4>🔁 Automation & Workflows</h4>
-      Automate your business logic. Save hours every week.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-[![Hire Me](https://img.shields.io/badge/HIRE%20ME-srivrdeveloper@gmail.com-00FFF7?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:srivrdeveloper@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ CONTACT HUB ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ CONTACT HUB
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Channel | Handle / Link |
-|---------|---------------|
-| 🌐 Portfolio | [vishwajeet-ai-dev.netlify.app](https://vishwajeet-ai-dev.netlify.app) |
-| 💼 LinkedIn | [Vishwajeet Ramniwas](https://www.linkedin.com/in/vishwajeet-ramniwas-3631a83a3) |
-| 📸 Instagram | [@vishwajeet_codes](https://www.instagram.com/vishwajeet_codes/) |
-| 💻 LeetCode | [Vr_developer78](https://leetcode.com/u/Vr_developer78/) |
-| 💬 Discord | `coding__caller_58735` |
-| 📧 Email | [srivrdeveloper@gmail.com](mailto:srivrdeveloper@gmail.com) |
-| 🐙 GitHub | [@codeby-Vishwajeet](https://github.com/codeby-Vishwajeet) |
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░ SUPPORT SECTION ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## ◈ SUPPORT THE MISSION
-
-<sub>If my work has helped you, taught you something, or saved you hours — consider showing support.</sub>
-
-<br/>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com)
-&nbsp;&nbsp;
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/codeby-Vishwajeet)
-
-<br/>
-
-⭐ **Star my repos** — it takes 2 seconds and means a lot.
-
-</div>
-
-<br/>
-
----
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-```
-█████████████████████████████████████████████████████████████████████████
-                                                                         
-   V I S H W A J E E T   R A M N I W A S  ·  codeby-Vishwajeet          
-                                                                         
-   AI Engineer  ·  Full Stack Developer  ·  Open Source Builder          
-   Freelance Developer  ·  Technical Problem Solver                      
-                                                                         
-   "Build real things. Solve real problems. Ship and repeat."            
-                                                                         
-█████████████████████████████████████████████████████████████████████████
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20Code-00FFF7?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Building%20in%20Public-7b2fff?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square" />
+<a href="https://vishwajeet-ai-dev.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-vishwajeet--ai--dev.netlify.app-00d4ff?style=for-the-badge&logo=netlify&logoColor=00d4ff&labelColor=0d1117" height="35"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00fff7,100:0d0d0d&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/vishwajeet-ramniwas-3631a83a3">
+<img src="https://img.shields.io/badge/LinkedIn-Vishwajeet%20Ramniwas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+&nbsp;
+<a href="mailto:srivrdeveloper@gmail.com">
+<img src="https://img.shields.io/badge/Email-srivrdeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.instagram.com/vishwajeet_codes/">
+<img src="https://img.shields.io/badge/Instagram-@vishwajeet__codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Vr_developer78/">
+<img src="https://img.shields.io/badge/LeetCode-Vr__developer78-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" height="35"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Discord-coding__caller__58735-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" height="35"/>
+
+<br/><br/>
+
+---
+
+### 💡 Open to
+
+<img src="https://img.shields.io/badge/◈-Freelance%20Projects-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/◈-Open%20Source%20Collabs-7dd3fc?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/◈-AI%20Startup%20Partnerships-FF6B35?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/◈-Technical%20Consulting-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+---
+
+## ⚡ `$ tail -f /logs/build.log`
+
+<div align="center">
+
+```
+[SYSTEM LOG] ─────────────────────────────────────────────────────
+                                                                   
+  [INFO]  Bootstrapping next-gen AI architecture...              
+  [INFO]  Loading production-grade TypeScript modules...          
+  [OK]    FastAPI boilerplate initialized ✓                       
+  [OK]    LLM inference pipeline connected ✓                      
+  [OK]    React frontend compiled — 0 errors ✓                    
+  [BUILD] AETHER Platform — deploying to production...            
+  [WARN]  Sleep scheduler: DISABLED (deadline mode active)        
+  [INFO]  Commits pushed: 2,000+ and counting                     
+  [OK]    Open source contributions: ACTIVE ✓                     
+  [OK]    Client deliverables: ON TIME ✓                          
+  [LOG]   Next milestone: LAUNCHING → ETA: SOON™                  
+                                                                   
+  >>>  Still building. Still shipping. Always learning.           
+─────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:000000&height=120&section=footer&text=Built%20with%20Purpose.%20Shipped%20with%20Precision.&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+<br/>
+
+*`"The best time to start was yesterday. The second best time is right now."`*
+
+<br/>
+
+![Wave](https://img.shields.io/badge/Thanks%20for%20visiting-Star%20a%20repo%20if%20you%20found%20value%20%E2%AD%90-00d4ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
