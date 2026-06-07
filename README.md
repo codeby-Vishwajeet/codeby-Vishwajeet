@@ -73,7 +73,7 @@ currently_building:
 mindset: "Ship fast. Build smart. Scale ruthlessly."
 ```
 
-<div align="center">
+
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-Vishwajeet&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-Vishwajeet&theme=radical">
