@@ -73,16 +73,25 @@ currently_building:
 mindset: "Ship fast. Build smart. Scale ruthlessly."
 ```
 
-</td>
-<td width="45%" valign="top">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&custom_title=System+Performance+Metrics" width="100%"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-Vishwajeet&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-Vishwajeet&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeby-Vishwajeet&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=8b949e&background=0d1117" width="100%"/>
+</div>
 
-</td>
-</tr>
-</table>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?codeby-Vishwajeet&theme=dark&hide_border=false)
+
+
+
+</div><br>
 
 ---
 
