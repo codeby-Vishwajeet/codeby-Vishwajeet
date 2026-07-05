@@ -31,7 +31,7 @@
 identity:
   name: "Vishwajeet Ramniwas"
   alias: "codeby-Vishwajeet"
-  
+
 roles:
   - "AI Engineer"
   - "Full Stack Developer"
@@ -51,24 +51,15 @@ currently_building:
 
 mindset: "Ship fast. Build smart. Scale ruthlessly."
 ```
-<div align="center">
 
-  
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-Vishwajeet&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-Vishwajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-Vishwajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-Vishwajeet&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
+</td>
+<td width="45%" valign="top" align="center">
 
-</div>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-Vishwajeet&theme=radical"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?codeby-Vishwajeet&theme=dark&hide_border=false)
-
-
+</td>
+</tr>
+</table>
 
 </div><br>
 
@@ -96,7 +87,6 @@ mindset: "Ship fast. Build smart. Scale ruthlessly."
 
 <div align="center">
 
-<!-- IIT MADRAS -->
 <table>
 <tr>
 <td align="center" width="33%">
@@ -428,8 +418,6 @@ Scale   ◈ Secure Architecture
 
 <div align="center">
 
-### ◈ CERTIFICATION HALL
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -628,9 +616,13 @@ On Learning Roadmap...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Language+Intelligence+Matrix" width="45%"/>
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=codeby-Vishwajeet&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-Vishwajeet&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=github_dark&utcOffset=5.5" width="45%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=codeby-Vishwajeet&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-Vishwajeet&theme=radical&utcOffset=5.5" width="48%"/>
 
 </div>
 
@@ -675,29 +667,29 @@ On Learning Roadmap...
 ```
 DEVELOPER JOURNEY & ROADMAP
 ══════════════════════════════════════════════════════════════════
- 
+
   2022 ──► Started with HTML/CSS/JavaScript
             First web project shipped ✅
-  
+
   2023 ──► Learned Python & backend development
             Built first full-stack application ✅
             Discovered AI/ML ecosystem ✅
-  
+
   2024 ──► FastAPI + Advanced React mastery
             First paid freelance client ✅
             Open source contributor ✅
-  
+
   2025 ──► IIT Madras AI Summit Participant ✅
             RSBVP State Representative ✅
             CodeFest'26 @ IIT BHU ✅
             Microsoft AI Certifications ✅
             Launched AETHER Platform 🔄
-  
+
   2026 ──► [Q1] Scale SaaS products to paying users
    NOW     [Q2] Launch developer tools on Product Hunt
            [Q3] First open source project with 100+ stars
            [Q4] Enterprise client acquisition
-  
+
   FUTURE ► Build AI startup ◈ Raise seed round ◈ Go global
 ══════════════════════════════════════════════════════════════════
 ```
@@ -823,20 +815,20 @@ FOUNDER MINDSET
 
 ```
 [SYSTEM LOG] ─────────────────────────────────────────────────────
-                                                                   
-  [INFO]  Bootstrapping next-gen AI architecture...              
-  [INFO]  Loading production-grade TypeScript modules...          
-  [OK]    FastAPI boilerplate initialized ✓                       
-  [OK]    LLM inference pipeline connected ✓                      
-  [OK]    React frontend compiled — 0 errors ✓                    
-  [BUILD] AETHER Platform — deploying to production...            
-  [WARN]  Sleep scheduler: DISABLED (deadline mode active)        
-  [INFO]  Commits pushed: 2,000+ and counting                     
-  [OK]    Open source contributions: ACTIVE ✓                     
-  [OK]    Client deliverables: ON TIME ✓                          
-  [LOG]   Next milestone: LAUNCHING → ETA: SOON™                  
-                                                                   
-  >>>  Still building. Still shipping. Always learning.           
+
+  [INFO]  Bootstrapping next-gen AI architecture...
+  [INFO]  Loading production-grade TypeScript modules...
+  [OK]    FastAPI boilerplate initialized ✓
+  [OK]    LLM inference pipeline connected ✓
+  [OK]    React frontend compiled — 0 errors ✓
+  [BUILD] AETHER Platform — deploying to production...
+  [WARN]  Sleep scheduler: DISABLED (deadline mode active)
+  [INFO]  Commits pushed: 2,000+ and counting
+  [OK]    Open source contributions: ACTIVE ✓
+  [OK]    Client deliverables: ON TIME ✓
+  [LOG]   Next milestone: LAUNCHING → ETA: SOON™
+
+  >>>  Still building. Still shipping. Always learning.
 ─────────────────────────────────────────────────────────────────
 ```
 
